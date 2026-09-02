@@ -28,6 +28,8 @@ jobs:
           python3 split_canvas_feed.py \
             --output-dir docs \
             --base-url "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}"
+          # tell GitHub Pages to serve these files as-is, skip the Jekyll build
+          touch docs/.nojekyll
 
       - name: Commit and push updated feeds
         run: |
