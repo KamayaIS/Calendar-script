@@ -1,0 +1,979 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//canvas-feed-splitter//split-by-course//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kevin Alejandro Amaya Calendar (Canvas) — IHUM 202-016
+BEGIN:VEVENT
+SUMMARY:Chapter Check: Renaissance and Reformation [IHUM 202-016]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260902T180000Z
+UID:event-assignment-1488432
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=09&year=2026#assignment_1488432
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chapter Check: The Tudor Age in England [IHUM 202-016]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260902T175500Z
+UID:event-assignment-1488498
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=09&year=2026#assignment_1488498
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Dive Report #1 [IHUM 202-016]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260902T175600Z
+UID:event-assignment-1488599
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=09&year=2026#assignment_1488599
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Dive Report #2 [IHUM 202-016]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260902T175600Z
+UID:event-assignment-1488605
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=09&year=2026#assignment_1488605
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamlet: Watching Benchmark 1 [IHUM 202-016]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260902T175500Z
+UID:event-assignment-1488462
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=09&year=2026#assignment_1488462
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Honorlock Practice and AI Agreement Quiz (Proctored) [IHUM 202-016
+ ]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260902T121800Z
+UID:event-assignment-1488439
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:--------------------------------------------------------------
+ --\nOrientation Honorlock Practice and AI Agreement Quiz (Proctored)\n----
+ ------------------------------------------------------------\n\nIn this ac
+ tivity\, you will review the course AI policy and set up Honorlock for pro
+ ctored exams. You will then complete a short practice quiz that includes a
+  reflection on the AI policy.\n\nPurpose of the Quiz\n-------------------
+ \n\nThis quiz serves two purposes: to help you become familiar with the on
+ line proctoring process and to confirm your understanding of the course AI
+  policy.\n\nBefore continuing in the course\, review the AI policy below\,
+  complete the Honorlock setup\, and submit the quiz. Doing this now will h
+ elp you prepare for your first proctored exam and avoid technical problems
+  later.\n\nThe quiz includes a short reflection on the AI policy. Your res
+ ponse will also provide an example of your natural writing style\, which m
+ ay be helpful if an AI detector produces a false positive in the future. W
+ rite in the same voice and style you would normally use for a paper in thi
+ s course.\n\nRead the AI Policy\n------------------\n\nArtificial Intellig
+ ence can be useful in a host of situations\, but not in writing assignment
+ s and papers for this course. In IHUM 202\, we want you to develop critica
+ l thinking skills as you work your way through ideas in your own head. We 
+ want you to gain new insights and come to your own conclusions. Then we wa
+ nt you to tell us about those conclusions in your own voice. We don't want
+  you to delegate your thinking and writing to AI. This is why we beg you a
+ nd plead with you to not use AI to write your assignments and papers. No
+ t only is it academically dishonest to pass off AI-generated text as your 
+ own\, but the AI bot that generates that text is bound to create a pretty 
+ soulless product. You—yes\, human you—are blessed with a unique\, indi
+ vidual mind and a unique\, individual voice. Believe in your ability to us
+ e both. We genuinely want to hear what human you has to say.\n\nJust to cl
+ arify\, the following are unacceptable uses of AI in this course:\n\n* Usi
+ ng AI to generate the text of your assignment or paper (for example\, plug
+ ging a prompt into ChatGPT and submitting what Chat GPT creates).\n\n* Usi
+ ng AI to generate the text of your assignment or paper\, and then making a
+  few changes so that there is a bit of your own writing somewhere in there
+ .\n\n* Asking AI to revise your initial draft\, to fix sections of your pa
+ per\, or to make your draft sound more college level\, more formal\, etc. 
+ This goes beyond a mere spellcheck\, and substantially changes the wording
+  and/or organization of your original writing. Using Grammarly's editing f
+ eature would fall under this violation. \n\n* Using AI to generate ideas 
+ or an outline for a paper or assignment that you then flesh out in your ow
+ n writing.\n\nIf an assignment or paper is flagged by Turnitin or other AI
+  detectors as having potentially over 70%  AI-generated text\, we'll be r
+ eaching out to have a conversation with you about how you completed the as
+ signment or paper. If we determine that AI was used to substantially gener
+ ate or alter your writing\, the assignment or paper will receive a zero.\n
+ \nIf an assignment or paper is flagged by Turnitin or other AI detectors a
+ s having potentially between 50% and 70% of AI-generated text\, we'll be r
+ eaching out to have a conversation with you about how you completed the as
+ signment or paper. If we determine that AI was used to substantially gener
+ ate or alter your writing\, the assignment or paper will receive a 50% ded
+ uction. \n\nThis AI policy is based on the BYU Comparative Arts and Lette
+ rs Position on AI. We recommend you familiarize yourself with it as well.
+  \n\nBYU Comparative Arts and Letters Position on AI\n-------------------
+ ----------------------------\n\nPractice\n--------\n\nAI and LLMs in the 
+  BYU Comparative Arts & Letters Classroom\n\nYou won’t find the same AI 
+ policies in a humanities class as what you may encounter in other fields a
+ cross campus. Reading\, writing\, brainstorming\, editing\, visualizing\, 
+ creating\, and analyzing texts and artworks are crucial enterprises that s
+ hould not be offloaded without clear-eyed deliberation about their effects
+  (in all realms - cognitive\, ethical\, social\, aesthetic\, spiritual\, e
+ tc.). Pay attention to each of your instructor’s policies and be ready t
+ o commit to humanistic work in its richness and rigor. As a peculiar peopl
+ e\, we should not be afraid to go against the cultural grain--to go slower
+  when the world demands we speed up\; to savor instead of consume\; to que
+ stion\, rather than prompt\; to listen more deeply rather than scroll more
+  voraciously\; to painstakingly craft rather than reproduce or simulate. W
+ e understand the inseparable relationships of culture and technology\, mat
+ eriality and media\, and believe that ongoing experience and spiritual dis
+ cernment are vital to navigating those relationships in our teaching\, res
+ earch\, and spiritual mission. As Latter-day Saint humanists we believe ed
+ ucation is aimed at nothing less than building the kingdom for the glory o
+ f God\, whose glory is not artificial\, but authentic and embodied loving 
+ intelligence.  \n\n \n\nPrinciples\n----------\n\nOn the importance of 
+ being human(ists)\n\nOur understanding of the humanities as Latter-day Sai
+ nts recognizes embodied experience as the central purpose of our mortal jo
+ urney. The humanities are an exploration of mortal experience: of the hist
+ orical and cultural forces that shape us and confront us as human beings\,
+  and which provoke innumerable forms of human expressions and responses ov
+ er time and across space. These expressions and responses in their varied 
+ forms are the humanist’s objects of study. In the humanities\, form\, co
+ ntent\, and context are interconnected in the process of making meaning\, 
+ in contrast to other disciplines which may regard objects primarily in ter
+ ms of the content they convey or their perceived utility. In addition\, th
+ e kinds of cognitive offloading and deskilling that these technologies app
+ ear to foster run counter to many of the goals of a BYU education and to o
+ ur shared mortal purpose of gaining experience and intelligence through li
+ ved experience. \n\nOn “generative” technologies\n\nTechnologies that
+  purport to generate language at unprecedented scale and speed obscure the
+  practices that backstop those technologies (some of which are ethically a
+ nd morally dubious)\; they also make the practice of writing (and writing-
+ as-thinking) seem trivial and automatable. All of this is of great concern
+  to us as Latter-Day Saint humanists. We view large language models (chatb
+ ots\, LLMs\, “AI”)  not as neutral or transparent tools of informatio
+ n\, but products of cultural and corporate ideologies that must be the obj
+ ects of study rather than means of outsourcing creativity and analysis. An
+ y use of AI in the humanities is necessarily an exercise in critical think
+ ing\, not simply a means of transmission.\n\nAcademic Integrity\n---------
+ ---------\n\nPlease carefully review the following information regarding a
+ cademic integrity.\n\nBy accessing BYU Online academic exams\, you acknowl
+ edge that you have read and understand the BYU Academic Honesty Policy. Fo
+ r clarity\, we want to remind you that the BYU Academic Honesty Policy and
+  all related policies apply to you when you take this test or quiz\, and w
+ e want to check your recognition of this fact. You agree to uphold the pri
+ nciples of academic honesty and integrity\, follow all exam rules and guid
+ elines (including the use of proctoring services)\, and adhere to the cons
+ equences of any violations as outlined in the BYU Academic Honesty Policy.
+  Please note that you must agree to each requirement in this quiz to proce
+ ed with this course\n\nHonorlock\n---------\n\n[Preparing for Your Exam] (
+ https://byu.instructure.com/courses/10881/pages/exam-instructions?module_i
+ tem_id=2232810)\n\nModule Item Completion (browser only)
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=09&year=2026#assignment_1488439
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><link rel="stylesheet" href="https://instructure-uploads.s3.a
+ mazonaws.com/account_74070000000000001/attachments/8073295/canvas-byuonlin
+ e-app.css"><div id="dp-wrapper" class="dp-wrapper" style="background-color
+ : #f9f9f9\; color: #000000\; border-radius: 2px\;"><header class="dp-heade
+ r dp-border-dir-tblr dp-border-style-solid dp-padding-direction-tblr dp-ma
+ rgin-direction-tblr" style="border-width: 8px 0px 0px\; padding-top: 0px\;
+  padding-bottom: 0px\; margin-bottom: 0px\; border-radius: 2px\; padding-l
+ eft: 7px\; border-color: #6b1f3a\; background-color: #6b1f3a\; color: #fff
+ fff\;">\n<h2 class="dp-heading dp-margin-direction-tblr dp-padding-directi
+ on-tblr" style="margin-top: 0px\; margin-bottom: 0px\; padding-bottom: 20p
+ x\; padding-top: 18px\; padding-left: 5px\; border-color: #2b4226\; color:
+  #ffffff\;"><span class="dp-header-pre dp-padding-direction-tblr dp-margin
+ -direction-tblr dp-text-bold dp-border-style-solid dp-border-dir-tblr" sty
+ le="border-width: 0px 2px 0px 0px\; padding-right: 12px\; background-color
+ : #6b1f3a\; color: #ffffff\;">Orientation</span> <span class="dp-header-ti
+ tle dp-margin-direction-tblr dp-padding-direction-tblr" style="margin-top:
+  0px\; background-color: #6b1f3a\; color: #ffffff\;">Honorlock Practice an
+ d AI Agreement Quiz (Proctored)</span></h2>\n</header>\n<div class="dp-con
+ tent-block lead dp-margin-direction-tblr dp-padding-direction-tblr dp-bord
+ er-style-solid dp-border-dir-all dp-shadow-b1" style="margin: 50px 70px 40
+ px\; padding: 25px 35px\; background-color: #ffffff\; color: #000000\; bor
+ der-width: 3px\; border-color: #6b1f3a\;">\n<p class="isSelectedEnd">In th
+ is activity\, you will review the course AI policy and set up Honorlock fo
+ r proctored exams. You will then complete a short practice quiz that inclu
+ des a reflection on the AI policy.</p>\n</div>\n<div class="dp-content-blo
+ ck dp-margin-direction-tblr dp-padding-direction-tblr dp-shadow-b1 dp-bord
+ er-dir-none" style="margin: 50px 70px 40px\; padding: 0px 35px 25px\; back
+ ground-color: #ffffff\; color: #000000\; border-width: 5px 0px 0px\; borde
+ r-color: #6b1f3a\;">\n<h3 class="dp-has-icon dp-border-dir-tblr dp-border-
+ style-solid dp-padding-direction-tblr dp-margin-direction-tblr" style="bor
+ der-width: 0px\; padding-left: 22px\; padding-bottom: 10px\; padding-top: 
+ 12px\; border-color: #6b1f3a\; color: #ffffff\; margin: 0px -35px 30px\; f
+ ont-size: 24px\; background-color: #6b1f3a\;"><span> <strong>Purpose of th
+ e Quiz</strong> </span></h3>\n<p class="isSelectedEnd">This quiz serves tw
+ o purposes: to help you become familiar with the online proctoring process
+  and to confirm your understanding of the course AI policy.</p>\n<p class=
+ "isSelectedEnd">Before continuing in the course\, review the AI policy bel
+ ow\, complete the Honorlock setup\, and submit the quiz. Doing this now wi
+ ll help you prepare for your first proctored exam and avoid technical prob
+ lems later.</p>\n<p class="isSelectedEnd">The quiz includes a short reflec
+ tion on the AI policy. Your response will also provide an example of your 
+ natural writing style\, which may be helpful if an AI detector produces a 
+ false positive in the future. Write in the same voice and style you would 
+ normally use for a paper in this course.</p>\n</div>\n<div class="dp-conte
+ nt-block dp-margin-direction-tblr dp-padding-direction-tblr dp-shadow-b1 d
+ p-border-dir-none" style="margin: 50px 70px 40px\; padding: 0px 35px 25px
+ \; background-color: #ffffff\; color: #000000\; border-width: 5px 0px 0px
+ \; border-color: #6b1f3a\;">\n<h3 class="dp-has-icon dp-border-dir-tblr dp
+ -border-style-solid dp-padding-direction-tblr dp-margin-direction-tblr" st
+ yle="border-width: 0px\; padding-left: 22px\; padding-bottom: 10px\; paddi
+ ng-top: 12px\; border-color: #6b1f3a\; color: #ffffff\; margin: 0px -35px 
+ 30px\; font-size: 24px\; background-color: #6b1f3a\;"><strong>Read the AI 
+ Policy</strong></h3>\n<p>Artificial Intelligence can be useful in a host o
+ f situations\, but not in writing assignments and papers for this course. 
+ In IHUM 202\, we want you to develop critical thinking skills as you work 
+ your way through ideas in your own head. We want you to gain new insights 
+ and come to your own conclusions. Then we want you to tell us about those 
+ conclusions in your own voice. We don't want you to delegate your thinking
+  and writing to AI. This is why we beg you and plead with you to<span>&nbs
+ p\;</span><strong>not</strong><span>&nbsp\;</span>use AI to write your ass
+ ignments and papers. Not only is it academically dishonest to pass off AI-
+ generated text as your own\, but the AI bot that generates that text is bo
+ und to create a pretty soulless product. You—yes\, human you—are bless
+ ed with a unique\, individual mind and a unique\, individual voice. Believ
+ e in your ability to use both. We genuinely want to hear what human you ha
+ s to say.</p>\n<p>Just to clarify\, the following are unacceptable uses of
+  AI in this course:</p>\n<ul>\n<li>Using AI to generate the text of your a
+ ssignment or paper (for example\, plugging a prompt into ChatGPT and submi
+ tting what Chat GPT creates).</li>\n<li>Using AI to generate the text of y
+ our assignment or paper\, and then making a few changes so that there is a
+  bit of your own writing somewhere in there.</li>\n<li>Asking AI to revise
+  your initial draft\, to fix sections of your paper\, or to make your draf
+ t sound more college level\, more formal\, etc. This goes beyond a mere sp
+ ellcheck\, and substantially changes the wording and/or organization of yo
+ ur original writing. Using Grammarly's editing feature would fall under th
+ is violation.&nbsp\;</li>\n<li>Using AI to generate ideas or an outline fo
+ r a paper or assignment that you then flesh out in your own writing.</li>
+ \n</ul>\n<p>If an assignment or paper is flagged by Turnitin or other AI d
+ etectors as having potentially over 70%&nbsp\; AI-generated text\, we'll b
+ e reaching out to have a conversation with you about how you completed the
+  assignment or paper. If we determine that AI was used to substantially ge
+ nerate or alter your writing\, the assignment or paper will receive a zero
+ .</p>\n<p>If an assignment or paper is flagged by Turnitin or other AI det
+ ectors as having potentially between 50% and 70% of AI-generated text\, we
+ 'll be reaching out to have a conversation with you about how you complete
+ d the assignment or paper. If we determine that AI was used to substantial
+ ly generate or alter your writing\, the assignment or paper will receive a
+  50% deduction.&nbsp\;</p>\n<p><span>This AI policy is based on the BYU Co
+ mparative Arts and Letters Position on AI. We recommend you familiarize yo
+ urself with it as well.&nbsp\;</span></p>\n<div class="dp-panels-wrapper d
+ p-accordion-default">\n<div class="dp-panel-group">\n<h3 class="dp-panel-h
+ eading">BYU Comparative Arts and Letters Position on AI</h3>\n<div class="
+ dp-panel-content">\n<h4 class="dp-margin-direction-tblr cp-txt-dp-primary 
+ dp-text-bold" style="margin-top: 20px\; font-size: 18px\; margin-bottom: 1
+ 0px\; color: #6b1f3a\;">Practice</h4>\n<hr class="dp-hr-solid-light dp-mar
+ gin-direction-tblr" style="border-color: #eeeeee\; color: #c7c9c7\; margin
+ -top: 8px\; margin-bottom: 20px\;">\n<p><span> <i>AI and LLMs in the&nbsp
+ \; BYU Comparative Arts &amp\; Letters Classroom</i> </span></p>\n<p><span
+ >You won’t find the same AI policies in a humanities class as what you m
+ ay encounter in other fields across campus. Reading\, writing\, brainstorm
+ ing\, editing\, visualizing\, creating\, and analyzing texts and artworks 
+ are crucial enterprises that should not be offloaded without clear-eyed de
+ liberation about their effects (in all realms - cognitive\, ethical\, soci
+ al\, aesthetic\, spiritual\, etc.). Pay attention to each of your instruct
+ or’s policies and be ready to commit to humanistic work in its richness 
+ and rigor. As a peculiar people\, we should not be afraid to go against th
+ e cultural grain--to go slower when the world demands we speed up\; to sav
+ or instead of consume\; to question\, rather than prompt\; to listen more 
+ deeply rather than scroll more voraciously\; to painstakingly craft rather
+  than reproduce or simulate. We understand the inseparable relationships o
+ f culture and technology\, materiality and media\, and believe that ongoin
+ g experience and spiritual discernment are vital to navigating those relat
+ ionships in our teaching\, research\, and spiritual mission. As Latter-day
+  Saint humanists we believe education is aimed at nothing less than buildi
+ ng the kingdom for the glory of God\, whose glory is not artificial\, but 
+ authentic and embodied loving intelligence.&nbsp\;&nbsp\;</span></p>\n<div
+ ><span>&nbsp\;</span></div>\n<h4 class="dp-margin-direction-tblr cp-txt-dp
+ -primary dp-text-bold" style="margin-top: 20px\; font-size: 18px\; margin-
+ bottom: 10px\; color: #6b1f3a\;">Principles</h4>\n<hr class="dp-hr-solid-l
+ ight dp-margin-direction-tblr" style="border-color: #eeeeee\; color: #c7c9
+ c7\; margin-top: 8px\; margin-bottom: 20px\;">\n<p><span> <i>On the import
+ ance of being human(ists)</i> </span></p>\n<p><span>Our understanding of t
+ he humanities as Latter-day Saints recognizes embodied experience as the c
+ entral purpose of our mortal journey. The humanities are an exploration of
+  mortal experience: of the historical and cultural forces that shape us an
+ d confront us as human beings\, and which provoke innumerable forms of hum
+ an expressions and responses over time and across space. These expressions
+  and responses in their varied forms are the humanist’s objects of study
+ . In the humanities\, form\, content\, and context are interconnected in t
+ he process of making meaning\, in contrast to other disciplines which may 
+ regard objects primarily in terms of the content they convey or their perc
+ eived utility. In addition\, the kinds of cognitive offloading and deskill
+ ing that these technologies appear to foster run counter to many of the go
+ als of a BYU education and to our shared mortal purpose of gaining experie
+ nce and intelligence through lived experience.&nbsp\;</span></p>\n<p><span
+ > <i>On “generative” technologies</i> </span></p>\n<p><span>Technologi
+ es that purport to generate language at unprecedented scale and speed obsc
+ ure the practices that backstop those technologies (some of which are ethi
+ cally and morally dubious)\; they also make the practice of writing (and w
+ riting-as-thinking) seem trivial and automatable. All of this is of great 
+ concern to us as Latter-Day Saint humanists. We view large language models
+  (chatbots\, LLMs\, “AI”)&nbsp\; not as neutral or transparent tools o
+ f information\, but products of cultural and corporate ideologies that mus
+ t be the objects of study rather than means of outsourcing creativity and 
+ analysis. Any use of AI in the humanities is necessarily an exercise in cr
+ itical thinking\, not simply a means of transmission.</span></p>\n</div>\n
+ </div>\n</div>\n<div class="dp-callout dp-callout-placeholder card dp-call
+ out-position-default dp-callout-type-default dp-callout-color-dp-primary d
+ p-margin-direction-tblr" style="margin-top: 40px\; margin-bottom: 15px\; b
+ ackground-color: #e2eee9\; color: #000000\; border-radius: 6px\; border: 1
+ px solid #6b1f3a\;">\n<div class="card-body" style="padding: 18px 22px\; b
+ ackground-color: #fdf7f9\; color: #000000\;">\n<h4 class="card-title" styl
+ e="color: #6b1f3a\; margin-top: 0px\;">Academic Integrity</h4>\n<p><span>P
+ lease carefully review the following information regarding academic integr
+ ity.</span></p>\n<p><span>By accessing BYU Online academic exams\, you ack
+ nowledge that you have read and understand the BYU Academic Honesty Policy
+ . <strong>For clarity\, we want to remind you that the BYU Academic Honest
+ y Policy and all related policies apply to you when you take this test or 
+ quiz\, and we want to check your recognition of this fact. </strong>You ag
+ ree to uphold the principles of academic honesty and integrity\, follow al
+ l exam rules and guidelines (including the use of proctoring services)\, a
+ nd adhere to the consequences of any violations as outlined in the BYU Aca
+ demic Honesty Policy. <strong>Please note that you must agree to each requ
+ irement in this quiz to proceed with this course</strong> </span></p>\n</d
+ iv>\n</div>\n</div>\n<div class="dp-content-block dp-margin-direction-tblr
+  dp-padding-direction-tblr dp-shadow-b1 dp-border-dir-none" style="margin:
+  50px 70px 40px\; padding: 0px 35px 25px\; background-color: #ffffff\; col
+ or: #000000\; border-width: 5px 0px 0px\; border-color: #6b1f3a\;">\n<h3 c
+ lass="dp-has-icon dp-border-dir-tblr dp-border-style-solid dp-padding-dire
+ ction-tblr dp-margin-direction-tblr" style="border-width: 0px\; padding-le
+ ft: 22px\; padding-bottom: 10px\; padding-top: 12px\; border-color: #6b1f3
+ a\; color: #ffffff\; margin: 0px -35px 30px\; font-size: 24px\; background
+ -color: #6b1f3a\;"><strong>Honorlock</strong> <strong> </strong></h3>\n<p>
+ <span> <a class="dp-import-page" href="https://byu.instructure.com/courses
+ /10881/pages/exam-instructions?module_item_id=2232810" data-api-endpoint="
+ https://byu.instructure.com/api/v1/courses/10881/pages/exam-instructions" 
+ data-api-returntype="Page">Preparing for Your Exam</a> </span></p>\n<div c
+ lass="dp-embed-wrapper" data-ratio-w="37.07" data-ratio-h="0.03"></div>\n<
+ /div>\n<div class="dp-content-block dp-padding-direction-tblr dp-margin-di
+ rection-tblr" style="padding: 20px 25px\; background-color: #6b1f3a\; colo
+ r: #ffffff\; margin-top: 55px\; margin-bottom: 0px\;">\n<div class="dp-pro
+ gress-placeholder dp-module-progress-completion dp-margin-direction-tblr" 
+ style="display: none\; background-color: #eeeeee\; color: #000000\;">Modul
+ e Item Completion (browser only)</div>\n</div>\n</div><script src="https:/
+ /instructure-uploads.s3.amazonaws.com/account_74070000000000001/attachment
+ s/8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join a Group [IHUM 202-016]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260902T121000Z
+UID:event-assignment-1488513
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:--------------------------------\nOrientation Sign Up for a Gr
+ oup\n--------------------------------\n\nThis quiz will ask you to confirm
+  that you have joined a discussion group for this course. Before starting 
+ this quiz\, please take the following steps:\n\n* Visit the  [People] (ht
+ tps://byu.instructure.com/courses/389/users?wrap=1)  tab of this course.
+ \n\n* Go to Groups.\n\n* Click  Join for the group you choose to join.\n
+ \nModule Item Completion (browser only)
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=09&year=2026#assignment_1488513
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><link rel="stylesheet" href="https://instructure-uploads.s3.a
+ mazonaws.com/account_74070000000000001/attachments/8073295/canvas-byuonlin
+ e-app.css"><div id="dp-wrapper" class="dp-wrapper" style="background-color
+ : #f9f9f9\; color: #000000\; border-radius: 2px\;"><header class="dp-heade
+ r dp-border-dir-tblr dp-border-style-solid dp-padding-direction-tblr dp-ma
+ rgin-direction-tblr" style="border-width: 8px 0px 0px\; padding-top: 0px\;
+  padding-bottom: 0px\; margin-bottom: 0px\; border-radius: 2px\; padding-l
+ eft: 7px\; border-color: #6b1f3a\; background-color: #6b1f3a\; color: #fff
+ fff\;">\n<h2 class="dp-heading dp-margin-direction-tblr dp-padding-directi
+ on-tblr" style="margin-top: 0px\; margin-bottom: 0px\; padding-bottom: 20p
+ x\; padding-top: 18px\; padding-left: 5px\;"><span class="dp-header-pre dp
+ -padding-direction-tblr dp-margin-direction-tblr dp-text-bold dp-border-st
+ yle-solid dp-border-dir-tblr" style="border-width: 0px 2px 0px 0px\; paddi
+ ng-right: 12px\;"> <span class="dp-header-pre-1">Orientation</span> </span
+ > <span class="dp-header-title dp-margin-direction-tblr dp-padding-directi
+ on-tblr" style="margin-top: 0px\;">Sign Up for a Group</span></h2>\n</head
+ er>\n<div class="dp-content-block dp-margin-direction-tblr dp-padding-dire
+ ction-tblr dp-border-style-solid dp-border-dir-all dp-shadow-b1 lead" styl
+ e="margin: 50px 70px 40px\; padding: 25px 35px\; background-color: #ffffff
+ \; color: #000000\; border-width: 3px\; border-color: #6b1f3a\;">\n<p>This
+  quiz will ask you to confirm that you have joined a discussion group for 
+ this course. Before starting this quiz\, please take the following steps:<
+ /p>\n<ol>\n<li>Visit the<span>&nbsp\;</span> <a class="inline_disabled" ti
+ tle="Link" href="https://byu.instructure.com/courses/389/users?wrap=1" tar
+ get="_blank">People</a> <span>&nbsp\;</span>tab of this course.</li>\n<li>
+ Go to Groups.</li>\n<li>Click<span>&nbsp\;</span> <strong>Join</strong>&nb
+ sp\;for the group you choose to join.</li>\n</ol>\n</div>\n<div class="dp-
+ content-block dp-padding-direction-tblr dp-margin-direction-tblr" style="p
+ adding: 20px 25px\; background-color: #6b1f3a\; color: #ffffff\; margin-to
+ p: 55px\;">\n<div class="dp-progress-placeholder dp-module-progress-comple
+ tion" style="display: none\; background-color: #eeeeee\; color: #000000\;"
+ >Module Item Completion (browser only)</div>\n</div>\n</div><script src="h
+ ttps://instructure-uploads.s3.amazonaws.com/account_74070000000000001/atta
+ chments/8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientation Checklist [IHUM 202-016]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260902T121000Z
+UID:event-assignment-1488453
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:----------------------------------\nOrientation Orientation Ch
+ ecklist\n----------------------------------\n\nThe purpose of this checkli
+ st is to ensure that you have a smooth experience in this online class. Pl
+ ease complete it to verify that you are ready to go! This checklist is in 
+ the form of a quiz and can be retaken as many times as needed. The checkli
+ st does not count toward your grade\, but you will need to complete it wit
+ h 100% accuracy before moving on to the content in Module 1.\n\nModule Ite
+ m Completion (browser only)
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=09&year=2026#assignment_1488453
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><link rel="stylesheet" href="https://instructure-uploads.s3.a
+ mazonaws.com/account_74070000000000001/attachments/8073295/canvas-byuonlin
+ e-app.css"><div id="dp-wrapper" class="dp-wrapper dp-margin-direction-tblr
+ " style="background-color: #f9f9f9\; color: #000000\; border-radius: 2px\;
+ "><header class="dp-header dp-border-dir-tblr dp-border-style-solid dp-pad
+ ding-direction-tblr dp-margin-direction-tblr" style="border-width: 8px 0px
+  0px\; padding-top: 0px\; padding-bottom: 0px\; margin-bottom: 0px\; borde
+ r-radius: 2px\; padding-left: 7px\; border-color: #6b1f3a\; background-col
+ or: #6b1f3a\; color: #ffffff\;">\n<h2 class="dp-heading dp-margin-directio
+ n-tblr dp-padding-direction-tblr" style="margin-top: 0px\; margin-bottom: 
+ 0px\; padding-bottom: 20px\; padding-top: 18px\; padding-left: 5px\; borde
+ r-color: #2b4226\; color: #ffffff\;"><span class="dp-header-pre dp-padding
+ -direction-tblr dp-margin-direction-tblr dp-text-bold dp-border-style-soli
+ d dp-border-dir-tblr" style="border-width: 0px 2px 0px 0px\; padding-right
+ : 12px\; background-color: #6b1f3a\; color: #ffffff\;"> <span class="dp-he
+ ader-pre-1 text-center" style="color: #ffffff\;">Orientation</span> </span
+ > <span class="dp-header-title dp-margin-direction-tblr dp-padding-directi
+ on-tblr" style="margin-top: 0px\;">Orientation Checklist</span></h2>\n</he
+ ader>\n<div class="dp-content-block dp-margin-direction-tblr dp-padding-di
+ rection-tblr dp-border-style-solid dp-border-dir-all dp-shadow-b1" style="
+ margin: 50px 70px 40px\; padding: 25px 35px\; background-color: #ffffff\; 
+ color: #000000\; border-width: 3px\; border-color: #6b1f3a\;">\n<p class="
+ lead">The purpose of this checklist is to ensure that you have a smooth ex
+ perience in this online class. Please complete it to verify that you are r
+ eady to go! This checklist is in the form of a quiz and can be retaken as 
+ many times as needed. The checklist does not count toward your grade\, but
+  you will need to complete it with 100% accuracy before moving on to the c
+ ontent in Module 1.</p>\n</div>\n<div class="dp-content-block dp-padding-d
+ irection-tblr dp-margin-direction-tblr" style="padding: 20px 25px\; backgr
+ ound-color: #6b1f3a\; color: #ffffff\; margin-top: 55px\; margin-bottom: 0
+ px\;">\n<div class="dp-progress-placeholder dp-module-progress-completion 
+ dp-margin-direction-tblr" style="display: none\; background-color: #eeeeee
+ \; color: #000000\;">Module Item Completion (browser only)</div>\n</div>\n
+ </div><script src="https://instructure-uploads.s3.amazonaws.com/account_74
+ 070000000000001/attachments/8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teamwork: DIY Caravaggio/Gentileschi Reply to Topic [IHUM 202-016]
+DTSTART;VALUE=DATE:20260917
+DTSTAMP:20260902T181800Z
+UID:event-sub-assignment-1488571
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=09&year=2026#assignment_1488570
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chapter Check: The Baroque Era in Italy [IHUM 202-016]
+DTSTART;VALUE=DATE:20260919
+DTSTAMP:20260902T174400Z
+UID:event-assignment-1488505
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=09&year=2026#assignment_1488505
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Dive Report #3 [IHUM 202-016]
+DTSTART;VALUE=DATE:20260919
+DTSTAMP:20260902T174400Z
+UID:event-assignment-1488607
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=09&year=2026#assignment_1488607
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamlet: Watching Benchmark 2 [IHUM 202-016]
+DTSTART;VALUE=DATE:20260919
+DTSTAMP:20260902T174400Z
+UID:event-assignment-1488508
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=09&year=2026#assignment_1488508
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teamwork: DIY Caravaggio/Gentileschi Required Replies (2) [IHUM 20
+ 2-016]
+DTSTART;VALUE=DATE:20260919
+DTSTAMP:20260902T181800Z
+UID:event-sub-assignment-1488572
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=09&year=2026#assignment_1488570
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamlet Paper: Small Group Discussion [IHUM 202-016]
+DTSTART;VALUE=DATE:20260924
+DTSTAMP:20260902T105400Z
+UID:event-assignment-1488425
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=09&year=2026#assignment_1488425
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chapter Check: The Baroque Era Outside of Italy [IHUM 202-016]
+DTSTART;VALUE=DATE:20260926
+DTSTAMP:20260902T105400Z
+UID:event-assignment-1488437
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=09&year=2026#assignment_1488437
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Dive Report #4 [IHUM 202-016]
+DTSTART;VALUE=DATE:20260926
+DTSTAMP:20260902T105500Z
+UID:event-assignment-1488609
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=09&year=2026#assignment_1488609
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamlet Paper: Writing Benchmark 1 [IHUM 202-016]
+DTSTART;VALUE=DATE:20260926
+DTSTAMP:20260902T105400Z
+UID:event-assignment-1488405
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=09&year=2026#assignment_1488405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamlet Paper: Writing Benchmark 2 [IHUM 202-016]
+DTSTART;VALUE=DATE:20261001
+DTSTAMP:20260902T105400Z
+UID:event-assignment-1488421
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488421
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unit 1 Check (Proctored) [IHUM 202-016]
+DTSTART;VALUE=DATE:20261001
+DTSTAMP:20260901T234800Z
+UID:event-assignment-1488529
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488529
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chapter Check: Baroque Music\, Philosophy\, Science\, and Literatu
+ re [IHUM 202-016]
+DTSTART;VALUE=DATE:20261003
+DTSTAMP:20260902T105400Z
+UID:event-assignment-1488400
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488400
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Dive Report #5 [IHUM 202-016]
+DTSTART;VALUE=DATE:20261003
+DTSTAMP:20260902T105500Z
+UID:event-assignment-1488612
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488612
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hamlet Paper: Submission [IHUM 202-016]
+DTSTART;VALUE=DATE:20261003
+DTSTAMP:20260902T105500Z
+UID:event-assignment-1488625
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488625
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teamwork: TBD Reply to Topic [IHUM 202-016]
+DTSTART;VALUE=DATE:20261008
+DTSTAMP:20260902T181800Z
+UID:event-sub-assignment-1488557
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488553
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chapter Check: On the Road to Revolution [IHUM 202-016]
+DTSTART;VALUE=DATE:20261010
+DTSTAMP:20260902T111600Z
+UID:event-assignment-1488519
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488519
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Dive Report #6 [IHUM 202-016]
+DTSTART;VALUE=DATE:20261010
+DTSTAMP:20260902T111600Z
+UID:event-assignment-1488614
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488614
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankenstein: Reading Benchmark 1 [IHUM 202-016]
+DTSTART;VALUE=DATE:20261010
+DTSTAMP:20260902T111600Z
+UID:event-assignment-1488459
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488459
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teamwork: TBD Required Replies (2) [IHUM 202-016]
+DTSTART;VALUE=DATE:20261010
+DTSTAMP:20260902T181800Z
+UID:event-sub-assignment-1488554
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488553
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chapter Check: Music and Literature in the 18th Century [IHUM 202-
+ 016]
+DTSTART;VALUE=DATE:20261017
+DTSTAMP:20260902T111600Z
+UID:event-assignment-1488418
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488418
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Dive Report #7 [IHUM 202-016]
+DTSTART;VALUE=DATE:20261017
+DTSTAMP:20260902T111600Z
+UID:event-assignment-1488616
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488616
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankenstein: Reading Benchmark 2 [IHUM 202-016]
+DTSTART;VALUE=DATE:20261017
+DTSTAMP:20260902T111600Z
+UID:event-assignment-1488525
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488525
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teamwork: Nature-Inspired Poem Reply to Topic [IHUM 202-016]
+DTSTART;VALUE=DATE:20261022
+DTSTAMP:20260902T181800Z
+UID:event-sub-assignment-1488545
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488543
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unit 2 Check (Proctored) [IHUM 202-016]
+DTSTART;VALUE=DATE:20261022
+DTSTAMP:20260901T234800Z
+UID:event-assignment-1488541
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488541
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chapter Check: From Revolution to Romanticism [IHUM 202-016]
+DTSTART;VALUE=DATE:20261024
+DTSTAMP:20260902T111600Z
+UID:event-assignment-1488479
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488479
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Dive Report #8 [IHUM 202-016]
+DTSTART;VALUE=DATE:20261024
+DTSTAMP:20260902T111600Z
+UID:event-assignment-1488618
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488618
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankenstein: Reading Benchmark 3 [IHUM 202-016]
+DTSTART;VALUE=DATE:20261024
+DTSTAMP:20260902T111600Z
+UID:event-assignment-1488527
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teamwork: Nature-Inspired Poem Required Replies (2) [IHUM 202-016]
+DTSTART;VALUE=DATE:20261024
+DTSTAMP:20260902T181800Z
+UID:event-sub-assignment-1488546
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488543
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chapter Check: Romanticism's Musical and American Landscape [IHUM 
+ 202-016]
+DTSTART;VALUE=DATE:20261031
+DTSTAMP:20260902T105400Z
+UID:event-assignment-1488457
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488457
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Dive Report #9 [IHUM 202-016]
+DTSTART;VALUE=DATE:20261031
+DTSTAMP:20260902T105500Z
+UID:event-assignment-1488620
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankenstein: Reading Benchmark 4 [IHUM 202-016]
+DTSTART;VALUE=DATE:20261031
+DTSTAMP:20260902T105400Z
+UID:event-assignment-1488501
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=10&year=2026#assignment_1488501
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankenstein Paper: Small Group Discussion [IHUM 202-016]
+DTSTART;VALUE=DATE:20261105
+DTSTAMP:20260902T105400Z
+UID:event-assignment-1488517
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=11&year=2026#assignment_1488517
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chapter Check: Toward the Modern Era [IHUM 202-016]
+DTSTART;VALUE=DATE:20261107
+DTSTAMP:20260902T105400Z
+UID:event-assignment-1488448
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=11&year=2026#assignment_1488448
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Dive Report #10 [IHUM 202-016]
+DTSTART;VALUE=DATE:20261107
+DTSTAMP:20260902T105500Z
+UID:event-assignment-1488600
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=11&year=2026#assignment_1488600
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankenstein Paper: Writing Benchmark 1 [IHUM 202-016]
+DTSTART;VALUE=DATE:20261107
+DTSTAMP:20260902T105400Z
+UID:event-assignment-1488489
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=11&year=2026#assignment_1488489
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankenstein Paper: Writing Benchmark 2 [IHUM 202-016]
+DTSTART;VALUE=DATE:20261112
+DTSTAMP:20260902T105400Z
+UID:event-assignment-1488411
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=11&year=2026#assignment_1488411
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chapter Check: The Fin de Siècle [IHUM 202-016]
+DTSTART;VALUE=DATE:20261114
+DTSTAMP:20260902T105400Z
+UID:event-assignment-1488520
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=11&year=2026#assignment_1488520
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Dive Report #11 [IHUM 202-016]
+DTSTART;VALUE=DATE:20261114
+DTSTAMP:20260902T105500Z
+UID:event-assignment-1488601
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=11&year=2026#assignment_1488601
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frankenstein Paper: Submission [IHUM 202-016]
+DTSTART;VALUE=DATE:20261114
+DTSTAMP:20260902T105500Z
+UID:event-assignment-1488623
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=11&year=2026#assignment_1488623
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unit 3 Check (Proctored) [IHUM 202-016]
+DTSTART;VALUE=DATE:20261119
+DTSTAMP:20260901T234800Z
+UID:event-assignment-1488531
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=11&year=2026#assignment_1488531
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chapter Check: In the Shadow of the Great War [IHUM 202-016]
+DTSTART;VALUE=DATE:20261121
+DTSTAMP:20260902T111600Z
+UID:event-assignment-1488482
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=11&year=2026#assignment_1488482
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Dive Report #12 [IHUM 202-016]
+DTSTART;VALUE=DATE:20261121
+DTSTAMP:20260902T111600Z
+UID:event-assignment-1488602
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=11&year=2026#assignment_1488602
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Metamorphosis: Reading Benchmark [IHUM 202-016]
+DTSTART;VALUE=DATE:20261121
+DTSTAMP:20260902T111600Z
+UID:event-assignment-1488515
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=11&year=2026#assignment_1488515
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teamwork: Metamorphosis Tactile Artwork Reply to Topic [IHUM 202-0
+ 16]
+DTSTART;VALUE=DATE:20261126
+DTSTAMP:20260902T181800Z
+UID:event-sub-assignment-1488576
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=11&year=2026#assignment_1488575
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chapter Check: Art Before\, During\, and After WWII [IHUM 202-016]
+DTSTART;VALUE=DATE:20261128
+DTSTAMP:20260902T105700Z
+UID:event-assignment-1488443
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=11&year=2026#assignment_1488443
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Dive Report #13 [IHUM 202-016]
+DTSTART;VALUE=DATE:20261128
+DTSTAMP:20260902T105800Z
+UID:event-assignment-1488603
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=11&year=2026#assignment_1488603
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teamwork: Metamorphosis Tactile Artwork Required Replies (2) [IHUM
+  202-016]
+DTSTART;VALUE=DATE:20261128
+DTSTAMP:20260902T181800Z
+UID:event-sub-assignment-1488578
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=11&year=2026#assignment_1488575
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chapter Check: The Contemporary Contour [IHUM 202-016]
+DTSTART;VALUE=DATE:20261205
+DTSTAMP:20260902T105400Z
+UID:event-assignment-1488485
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=12&year=2026#assignment_1488485
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Dive Report #14 [IHUM 202-016]
+DTSTART;VALUE=DATE:20261205
+DTSTAMP:20260902T105500Z
+UID:event-assignment-1488604
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=12&year=2026#assignment_1488604
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unit 4 Check (Proctored) [IHUM 202-016]
+DTSTART;VALUE=DATE:20261217
+DTSTAMP:20260901T234800Z
+UID:event-assignment-1488472
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36391&month=12&year=2026#assignment_1488472
+END:VEVENT
+END:VCALENDAR

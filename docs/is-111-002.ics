@@ -1,0 +1,655 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//canvas-feed-splitter//split-by-course//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kevin Alejandro Amaya Calendar (Canvas) — IS 111-002
+BEGIN:VEVENT
+SUMMARY:Session 1: EYARC: How-To Use the EYARC Experience Platform [IS 111
+ -002]
+DTSTART;VALUE=DATE:20260905
+DTSTAMP:20260821T144000Z
+UID:event-assignment-1451775
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=09&year=2026#assignment_1451775
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 1: EYARC: Rewiring Introduction Chapter [IS 111-002]
+DTSTART;VALUE=DATE:20260905
+DTSTAMP:20260821T144000Z
+UID:event-assignment-1451776
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=09&year=2026#assignment_1451776
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 2: EYARC: Becoming with GenAI [IS 111-002]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260821T144000Z
+UID:event-assignment-1451777
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=09&year=2026#assignment_1451777
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 2: EYARC: Intro to GenAI [IS 111-002]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260821T144000Z
+UID:event-assignment-1451778
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=09&year=2026#assignment_1451778
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 2: EYARC: Rewiring Chapter 1 [IS 111-002]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260821T144000Z
+UID:event-assignment-1451779
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=09&year=2026#assignment_1451779
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 1 Quiz [IS 111-002]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260825T160200Z
+UID:event-assignment-1451911
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=09&year=2026#assignment_1451911
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 3: EYARC: Prompt Engineering [IS 111-002]
+DTSTART;VALUE=DATE:20260919
+DTSTAMP:20260821T144000Z
+UID:event-assignment-1451780
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=09&year=2026#assignment_1451780
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 3: EYARC: Rewiring Chapter 2 [IS 111-002]
+DTSTART;VALUE=DATE:20260919
+DTSTAMP:20260821T144000Z
+UID:event-assignment-1451781
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=09&year=2026#assignment_1451781
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 3: EYARC: Soft Skills Presentations [IS 111-002]
+DTSTART;VALUE=DATE:20260919
+DTSTAMP:20260821T144000Z
+UID:event-assignment-1451782
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=09&year=2026#assignment_1451782
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 4: EYARC: Prompt Engineering 2 [IS 111-002]
+DTSTART;VALUE=DATE:20260926
+DTSTAMP:20260821T141800Z
+UID:event-assignment-1451783
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=09&year=2026#assignment_1451783
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 4: EYARC: Rewiring Chapter 3 [IS 111-002]
+DTSTART;VALUE=DATE:20260926
+DTSTAMP:20260821T141800Z
+UID:event-assignment-1451784
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=09&year=2026#assignment_1451784
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 4: EYARC: Soft Skills Feedback [IS 111-002]
+DTSTART;VALUE=DATE:20260926
+DTSTAMP:20260821T141800Z
+UID:event-assignment-1451785
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=09&year=2026#assignment_1451785
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 5: EYARC: AI Ethics [IS 111-002]
+DTSTART;VALUE=DATE:20261003
+DTSTAMP:20260821T144000Z
+UID:event-assignment-1451787
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=10&year=2026#assignment_1451787
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 5: EYARC: Verifactum [IS 111-002]
+DTSTART;VALUE=DATE:20261003
+DTSTAMP:20260821T144000Z
+UID:event-assignment-1451788
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=10&year=2026#assignment_1451788
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 6: EYARC: Rewiring Chapter 4 [IS 111-002]
+DTSTART;VALUE=DATE:20261010
+DTSTAMP:20260821T141800Z
+UID:event-assignment-1451789
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=10&year=2026#assignment_1451789
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 6: EYARC: Rewiring Chapter 5 [IS 111-002]
+DTSTART;VALUE=DATE:20261010
+DTSTAMP:20260821T141800Z
+UID:event-assignment-1451790
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=10&year=2026#assignment_1451790
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 6: Multimodal PowerPoint [IS 111-002]
+DTSTART;VALUE=DATE:20261010
+DTSTAMP:20260821T141800Z
+UID:event-assignment-1451791
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Submission: Upload your completed assignment as a file. Your T
+ A will grade the submission and provide feedback here.\n\nSee the session 
+ page for full instructions and rubric details.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=10&year=2026#assignment_1451791
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p><strong>Submission:</strong> Upload your completed assignm
+ ent as a file. Your TA will grade the submission and provide feedback here
+ .</p>\n<p>See the session page for full instructions and rubric details.</
+ p><script src="https://instructure-uploads.s3.amazonaws.com/account_740700
+ 00000000001/attachments/8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 7: Using GenAI for Lifelong Learning Required Replies (3) 
+ [IS 111-002]
+DTSTART;VALUE=DATE:20261014
+DTSTAMP:20260821T141400Z
+UID:event-sub-assignment-1451762
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Participate in the class discussion board as instructed in thi
+ s assignment: [Assignment Life Long Learning.docx] (LINK.PLACEHOLDER_853e9
+ 5684f0bfe31b6c2ffa33848f56d).
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=10&year=2026#assignment_1451761
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>Participate in the class discussion board as instructed in
+  this assignment: <a id="11317288" class="instructure_file_link instructur
+ e_scribd_file inline_disabled" style="color: #0047ba\;" href="LINK.PLACEHO
+ LDER_853e95684f0bfe31b6c2ffa33848f56d" target="_blank" data-canvas-preview
+ able="true" data-api-endpoint="https://byu.instructure.com/api/v1/courses/
+ 36279/files/13128085" data-api-returntype="File">Assignment Life Long Lear
+ ning.docx</a>.</p><script src="https://instructure-uploads.s3.amazonaws.co
+ m/account_74070000000000001/attachments/8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 7: Using GenAI for Lifelong Learning Reply to Topic [IS 11
+ 1-002]
+DTSTART;VALUE=DATE:20261014
+DTSTAMP:20260821T141500Z
+UID:event-sub-assignment-1451763
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Participate in the class discussion board as instructed in thi
+ s assignment: [Assignment Life Long Learning.docx] (LINK.PLACEHOLDER_853e9
+ 5684f0bfe31b6c2ffa33848f56d).
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=10&year=2026#assignment_1451761
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>Participate in the class discussion board as instructed in
+  this assignment: <a id="11317288" class="instructure_file_link instructur
+ e_scribd_file inline_disabled" style="color: #0047ba\;" href="LINK.PLACEHO
+ LDER_853e95684f0bfe31b6c2ffa33848f56d" target="_blank" data-canvas-preview
+ able="true" data-api-endpoint="https://byu.instructure.com/api/v1/courses/
+ 36279/files/13128085" data-api-returntype="File">Assignment Life Long Lear
+ ning.docx</a>.</p><script src="https://instructure-uploads.s3.amazonaws.co
+ m/account_74070000000000001/attachments/8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 7: EYARC: Advanced GenAI [IS 111-002]
+DTSTART;VALUE=DATE:20261017
+DTSTAMP:20260821T144000Z
+UID:event-assignment-1451792
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=10&year=2026#assignment_1451792
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 7: EYARC: Rewiring Chapter 6 [IS 111-002]
+DTSTART;VALUE=DATE:20261017
+DTSTAMP:20260821T144000Z
+UID:event-assignment-1451793
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=10&year=2026#assignment_1451793
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 8: EYARC: Agentic AI [IS 111-002]
+DTSTART;VALUE=DATE:20261024
+DTSTAMP:20260821T145900Z
+UID:event-assignment-1451797
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=10&year=2026#assignment_1451797
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 8: EYARC: Rewiring Chapter 7 [IS 111-002]
+DTSTART;VALUE=DATE:20261024
+DTSTAMP:20260821T141800Z
+UID:event-assignment-1451794
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=10&year=2026#assignment_1451794
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 9: EYARC: Rewiring Chapter 8 [IS 111-002]
+DTSTART;VALUE=DATE:20261031
+DTSTAMP:20260821T144000Z
+UID:event-assignment-1451798
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=10&year=2026#assignment_1451798
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 9: EYARC: Vibe Coding [IS 111-002]
+DTSTART;VALUE=DATE:20261031
+DTSTAMP:20260821T145900Z
+UID:event-assignment-1451795
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=10&year=2026#assignment_1451795
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 9: Vibe Coding a Game [IS 111-002]
+DTSTART;VALUE=DATE:20261031
+DTSTAMP:20260821T145900Z
+UID:event-assignment-1451796
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Submission: Upload your completed assignment as a Word (docx) 
+ file . Your TA will grade the submission and provide feedback here.\n\nSee
+  the session page for full instructions and rubric details.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=10&year=2026#assignment_1451796
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p><strong>Submission:</strong> Upload your completed assignm
+ ent as a Word (docx) file . Your TA will grade the submission and provide 
+ feedback here.</p>\n<p>See the session page for full instructions and rubr
+ ic details.</p><script src="https://instructure-uploads.s3.amazonaws.com/a
+ ccount_74070000000000001/attachments/8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 10: Creating a MindStudio Agent [IS 111-002]
+DTSTART;VALUE=DATE:20261107
+DTSTAMP:20260821T141800Z
+UID:event-assignment-1451769
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Submission: Upload your completed assignment as a file. Your T
+ A will grade the submission and provide feedback here.\n\nSee the session 
+ page for full instructions and rubric details.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=11&year=2026#assignment_1451769
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p><strong>Submission:</strong> Upload your completed assignm
+ ent as a file. Your TA will grade the submission and provide feedback here
+ .</p>\n<p>See the session page for full instructions and rubric details.</
+ p><script src="https://instructure-uploads.s3.amazonaws.com/account_740700
+ 00000000001/attachments/8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 10: EYARC: Building Agentic Workflows [IS 111-002]
+DTSTART;VALUE=DATE:20261107
+DTSTAMP:20260821T141800Z
+UID:event-assignment-1451770
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=11&year=2026#assignment_1451770
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 10: EYARC: Rewiring Chapter 9 [IS 111-002]
+DTSTART;VALUE=DATE:20261107
+DTSTAMP:20260821T141800Z
+UID:event-assignment-1451771
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=11&year=2026#assignment_1451771
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 11: Challenges with GenAI  Reply to Topic [IS 111-002]
+DTSTART;VALUE=DATE:20261111
+DTSTAMP:20260821T141300Z
+UID:event-sub-assignment-1451759
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Participate in the class discussion board as instructed in thi
+ s assignment: [Assignment Challenges with GenAI.docx] (LINK.PLACEHOLDER_13
+ 1f33b774877352de56c03d4c68cd0f).
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=11&year=2026#assignment_1451758
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>Participate in the class discussion board as instructed in
+  this assignment: <a class="instructure_file_link instructure_scribd_file 
+ inline_disabled" style="color: #0047ba\;" href="LINK.PLACEHOLDER_131f33b77
+ 4877352de56c03d4c68cd0f" target="_blank" data-canvas-previewable="false" d
+ ata-api-endpoint="https://byu.instructure.com/api/v1/courses/36279/files/1
+ 3128039" data-api-returntype="File">Assignment Challenges with GenAI.docx<
+ /a>.</p><script src="https://instructure-uploads.s3.amazonaws.com/account_
+ 74070000000000001/attachments/8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 11: Challenges with GenAI  Required Replies (3) [IS 111-00
+ 2]
+DTSTART;VALUE=DATE:20261111
+DTSTAMP:20260821T141300Z
+UID:event-sub-assignment-1451760
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Participate in the class discussion board as instructed in thi
+ s assignment: [Assignment Challenges with GenAI.docx] (LINK.PLACEHOLDER_13
+ 1f33b774877352de56c03d4c68cd0f).
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=11&year=2026#assignment_1451758
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>Participate in the class discussion board as instructed in
+  this assignment: <a class="instructure_file_link instructure_scribd_file 
+ inline_disabled" style="color: #0047ba\;" href="LINK.PLACEHOLDER_131f33b77
+ 4877352de56c03d4c68cd0f" target="_blank" data-canvas-previewable="false" d
+ ata-api-endpoint="https://byu.instructure.com/api/v1/courses/36279/files/1
+ 3128039" data-api-returntype="File">Assignment Challenges with GenAI.docx<
+ /a>.</p><script src="https://instructure-uploads.s3.amazonaws.com/account_
+ 74070000000000001/attachments/8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 11: EYARC: Rewiring Chapter 10 [IS 111-002]
+DTSTART;VALUE=DATE:20261114
+DTSTAMP:20260821T144000Z
+UID:event-assignment-1451772
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=11&year=2026#assignment_1451772
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 12: EYARC: Rewiring Chapter 11 [IS 111-002]
+DTSTART;VALUE=DATE:20261121
+DTSTAMP:20260821T141800Z
+UID:event-assignment-1451773
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=11&year=2026#assignment_1451773
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 13: EYARC: Rewiring Chapter 12 [IS 111-002]
+DTSTART;VALUE=DATE:20261205
+DTSTAMP:20260821T144000Z
+UID:event-assignment-1451774
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=12&year=2026#assignment_1451774
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final Project [IS 111-002]
+DTSTART;VALUE=DATE:20261217
+DTSTAMP:20260821T144000Z
+UID:event-assignment-1451768
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Final Project submission: Upload your completed final project 
+ as a file. Your TA will grade the submission and provide feedback here.\n
+ \nSee the Session 15 / Final Project page for full instructions and rubric
+ .
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=12&year=2026#assignment_1451768
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p><strong>Final Project submission:</strong> Upload your com
+ pleted final project as a file. Your TA will grade the submission and prov
+ ide feedback here.</p>\n<p>See the Session 15 / Final Project page for ful
+ l instructions and rubric.</p><script src="https://instructure-uploads.s3.
+ amazonaws.com/account_74070000000000001/attachments/8409019/dp_app.js"></s
+ cript>
+END:VEVENT
+END:VCALENDAR
