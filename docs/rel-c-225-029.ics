@@ -1,0 +1,1367 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//canvas-feed-splitter//split-by-course//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kevin Alejandro Amaya Calendar (Canvas) — REL C 225-029
+BEGIN:VEVENT
+SUMMARY:❖ Activity 1: Learning by Study [REL C 225-029]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418823
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418823
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Analysis Assignment 1: Evaluating Latter-day Saint Doctrine [R
+ EL C 225-029]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260812T171200Z
+UID:event-assignment-1418792
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418792
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Connect Session Quiz 1 [REL C 225-029]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418756
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418756
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 0.1: Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418796
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:--------------------------------------------------------------
+ --------------------------------------------------------------------------
+ --------------------------------------------------------------------------
+ --------------------------\nThis is the check associated with [Course Intr
+ oduction and Overview] (https://byu.instructure.com/courses/37977/pages/co
+ urse-introduction-and-overview). You will be asked to confirm that you rea
+ d all of the content on the previous page.\n------------------------------
+ --------------------------------------------------------------------------
+ --------------------------------------------------------------------------
+ ----------------------------------------------------------
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418796
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><link rel="stylesheet" href="https://instructure-uploads.s3.a
+ mazonaws.com/account_74070000000000001/attachments/8073295/canvas-byuonlin
+ e-app.css"><hr style="height: 4px\; background-color: #002e5d\; color: #00
+ 2e5d\;">\n<h2><span style="font-size: 12pt\;">This is the check associated
+  with <a title="null" href="https://byu.instructure.com/courses/37977/page
+ s/course-introduction-and-overview" data-api-endpoint="https://byu.instruc
+ ture.com/api/v1/courses/37977/pages/course-introduction-and-overview" data
+ -api-returntype="Page">Course Introduction and Overview</a>. You will be a
+ sked to confirm that you read all of the content on the previous page.</sp
+ an></h2>\n<hr style="height: 4px\; background-color: #002e5d\; color: #002
+ e5d\;"><script src="https://instructure-uploads.s3.amazonaws.com/account_7
+ 4070000000000001/attachments/8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 0.2: Confirm That You Have Joined Your Section's Group [R
+ EL C 225-029]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418766
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:--------------------------------------------------------------
+ --------------------------------------------------------------------------
+ ------------------------------------\nNote: Your TA has taken care of this
+  requirement so you can simply select "Yes" to the question in this quiz a
+ nd disregard the instructions to receive points for this quiz.\n----------
+ --------------------------------------------------------------------------
+ --------------------------------------------------------------------------
+ --------------\n\n \n\nThis is the check associated with [Join the Group 
+ for Your Section] (https://byu.instructure.com/courses/37977/pages/join-th
+ e-group-for-your-section). You will be asked to confirm that you have foll
+ owed the instructions on the previous page to confirm or establish your me
+ mbership in the course group for your section.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418766
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><link rel="stylesheet" href="https://instructure-uploads.s3.a
+ mazonaws.com/account_74070000000000001/attachments/8073295/canvas-byuonlin
+ e-app.css"><hr style="height: 4px\; background-color: #002e5d\; color: #00
+ 2e5d\;">\n<h2><span style="font-size: 12pt\;">Note: Your TA has taken care
+  of this requirement so you can simply select "Yes" to the question in thi
+ s quiz and disregard the instructions to receive points for this quiz.</sp
+ an></h2>\n<p>&nbsp\;</p>\n<p><span>This is the check associated with <a ti
+ tle="null" href="https://byu.instructure.com/courses/37977/pages/join-the-
+ group-for-your-section" data-api-endpoint="https://byu.instructure.com/api
+ /v1/courses/37977/pages/join-the-group-for-your-section" data-api-returnty
+ pe="Page">Join the Group for Your Section</a>. You will be asked to confir
+ m that you have followed the instructions on the previous page to confirm 
+ or establish your membership in the course group for your section.</span><
+ /p>\n<hr style="height: 4px\; background-color: #002e5d\; color: #002e5d\;
+ "><script src="https://instructure-uploads.s3.amazonaws.com/account_740700
+ 00000000001/attachments/8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 0.3: Academic Honesty Quiz [REL C 225-029]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418840
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:--------------------------------------------------------------
+ --------------------------------------------------------------------------
+ --------------------------------\nThe following quiz contains a link to a 
+ handout you are required to read as well as a pledge to avoid academic dis
+ honesty and misconduct in all its forms this semester.\n------------------
+ --------------------------------------------------------------------------
+ --------------------------------------------------------------------------
+ --
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418840
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><link rel="stylesheet" href="https://instructure-uploads.s3.a
+ mazonaws.com/account_74070000000000001/attachments/8073295/canvas-byuonlin
+ e-app.css"><hr style="height: 4px\; background-color: #002e5d\; color: #00
+ 2e5d\;">\n<h2><span style="font-size: 12pt\;">The following quiz contains 
+ a link to a handout you are required to read as well as a pledge to avoid 
+ academic dishonesty and misconduct in all its forms this semester.</span><
+ /h2>\n<hr style="height: 4px\; background-color: #002e5d\; color: #002e5d
+ \;"><script src="https://instructure-uploads.s3.amazonaws.com/account_7407
+ 0000000000001/attachments/8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 0.4: Syllabus Quiz [REL C 225-029]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418842
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:--------------------------------------------------------------
+ -\nPlease review the material thoroughly before starting the quiz.\n----
+ -----------------------------------------------------------\n\nQuestions a
+ re drawn from the syllabus and Instructor Information page. You must re
+ ad the entire course [syllabus] (https://byu.instructure.com/courses/37977
+ /assignments/syllabus) before taking this quiz.\n\nThis quiz also includes
+  a check. You will be asked to confirm that you read all of the material
+ s on the course syllabus.\n\nThe quiz is open book and open notes—
+ you may refer back to the lesson material to find answers.
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418842
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><link rel="stylesheet" href="https://instructure-uploads.s3.a
+ mazonaws.com/account_74070000000000001/attachments/8073295/canvas-byuonlin
+ e-app.css"><hr style="height: 4px\; background-color: #002e5d\; color: #00
+ 2e5d\;">\n<h2><span style="font-size: 12pt\;">Please review the material&n
+ bsp\;<em>thoroughly</em>&nbsp\;before starting the quiz. </span></h2>\n<p>
+ Questions are drawn from the&nbsp\;syllabus&nbsp\;and Instructor Informati
+ on page.&nbsp\;<strong>You must read the entire course <a id="" class="" t
+ itle="" href="https://byu.instructure.com/courses/37977/assignments/syllab
+ us" target="_blank">syllabus</a> before taking this quiz.</strong></p>\n<p
+ >This quiz also includes a check.&nbsp\;You will be asked to confirm that 
+ you read all of the&nbsp\;materials on the course syllabus.</p>\n<p>The&nb
+ sp\;quiz is&nbsp\;<strong>open&nbsp\;book&nbsp\;</strong>and<strong>&nbsp
+ \;open&nbsp\;notes</strong>—you&nbsp\;may refer back to the lesson mater
+ ial to find answers.</p>\n<hr style="height: 4px\; background-color: #002e
+ 5d\; color: #002e5d\;"><script src="https://instructure-uploads.s3.amazona
+ ws.com/account_74070000000000001/attachments/8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 0.5: Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418759
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:--------------------------------------------------------------
+ --------------------------------------------------------------------------
+ --------------------------------------------------------------------------
+ -------------------------\nThis is the check associated with [Consider Yo
+ ur Study Habits] (https://byu.instructure.com/courses/37977/pages/consider
+ -your-study-habits). You will be asked to confirm that you read two (or mo
+ re) of the articles on the previous page.\n-------------------------------
+ --------------------------------------------------------------------------
+ --------------------------------------------------------------------------
+ --------------------------------------------------------
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418759
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><link rel="stylesheet" href="https://instructure-uploads.s3.a
+ mazonaws.com/account_74070000000000001/attachments/8073295/canvas-byuonlin
+ e-app.css"><hr style="height: 4px\; background-color: #002e5d\; color: #00
+ 2e5d\;">\n<h2><span style="font-size: 12pt\;">This is the check associated
+  with&nbsp\;<a href="https://byu.instructure.com/courses/37977/pages/consi
+ der-your-study-habits" target="_blank" data-api-endpoint="https://byu.inst
+ ructure.com/api/v1/courses/37977/pages/consider-your-study-habits" data-ap
+ i-returntype="Page">Consider Your Study Habits</a>. You will be asked to c
+ onfirm that you read two (or more) of the articles on the previous page.</
+ span></h2>\n<hr style="height: 4px\; background-color: #002e5d\; color: #0
+ 02e5d\;"><script src="https://instructure-uploads.s3.amazonaws.com/account
+ _74070000000000001/attachments/8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 1.1: Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418824
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418824
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 1.2: Overview Video Viewing Check [REL C 225-029]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418820
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418820
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 1.3: Content Quiz [REL C 225-029]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418812
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418812
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 1.4: Content Quiz [REL C 225-029]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418795
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418795
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 1.5: Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418781
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418781
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LATE POLICY [REL C 225-029]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418784
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:--------------------------------------------------------------
+ --------------------------------------------------------------------------
+ ---------------------\nCertify below that you understand\, accept\, and wi
+ ll adhere to the late policy of the class.  If you do not wish to accept 
+ the policy\, please drop the course.\n------------------------------------
+ --------------------------------------------------------------------------
+ -----------------------------------------------
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418784
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><link rel="stylesheet" href="https://instructure-uploads.s3.a
+ mazonaws.com/account_74070000000000001/attachments/8073295/canvas-byuonlin
+ e-app.css"><h2><span style="font-size: 18pt\;"><strong>Certify below that 
+ you understand\, accept\, and will adhere to the late policy of the class.
+ &nbsp\; If you do not wish to accept the policy\, please drop the course.<
+ /strong></span></h2><script src="https://instructure-uploads.s3.amazonaws.
+ com/account_74070000000000001/attachments/8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Discussion 0: Me in 30 Seconds [REL C 225-029]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418859
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:--------------------------\nEstimated time: 30 minutes\n------
+ --------------------\n\nI want to get to know you a bit as the amazing son
+  or daughter of God that you are\, and so do your online classmates! Your 
+ assignment is to create a quick video of yourself describing you in about 
+ thirty seconds or so. For example\, tell me about where you are from\, if/
+ where you served a mission\, your academic major\, if you're married or ha
+ ve kids\, what BYU teams/groups you are involved with\, the mad skills or 
+ hobbies you have\, etc. Be as creative and loose as you want to (in fact\,
+  the less stuffy the better). You can either take the video using your sma
+ rtphone and upload it here\, or you can use the video feature on this disc
+ ussion board to film directly from your computer’s webcam.\n\nAfter you 
+ have posted your video (2 points)\, watch three other people’s videos fr
+ om class and respond to their videos by commenting on something you find i
+ nteresting about them (1 point each).
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418859
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><link rel="stylesheet" href="https://instructure-uploads.s3.a
+ mazonaws.com/account_74070000000000001/attachments/8073295/canvas-byuonlin
+ e-app.css"><h2><span style="font-size: 12pt\;"><i>Estimated time: 30 minut
+ es</i></span></h2>\n<hr style="height: 4px\; background-color: #002e5d\; c
+ olor: #002e5d\;">\n<p>I want to get to know you a bit as the amazing son o
+ r daughter of God that you are\, and so do your online classmates! Your as
+ signment is to create a quick video of yourself describing you in about th
+ irty seconds or so. For example\, tell me about where you are from\, if/wh
+ ere you served a mission\, your academic major\, if you're married or have
+  kids\, what BYU teams/groups you are involved with\, the mad skills or ho
+ bbies you have\, etc. Be as creative and loose as you want to (in fact\, t
+ he less stuffy the better). You can either take the video using your smart
+ phone and upload it here\, or you can use the video feature on this discus
+ sion board to film directly from your computer’s webcam.</p>\n<p>After y
+ ou have posted your video (2 points)\, watch three other people’s videos
+  from class and respond to their videos by commenting on something you fin
+ d interesting about them (1 point each).</p>\n<hr style="height: 4px\; bac
+ kground-color: #002e5d\; color: #002e5d\;"><script src="https://instructur
+ e-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409019/d
+ p_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Discussion 1: Doctrine of Christ [REL C 225-029]
+DTSTART;VALUE=DATE:20260912
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418850
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418850
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Activity 2: Primary Accounts Chart [REL C 225-029]
+DTSTART;VALUE=DATE:20260915
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418866
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418866
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Analysis Assignment 2: Thinking about the First Vision [REL C 
+ 225-029]
+DTSTART;VALUE=DATE:20260915
+DTSTAMP:20260812T171200Z
+UID:event-assignment-1418760
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418760
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Connect Session Quiz 2 [REL C 225-029]
+DTSTART;VALUE=DATE:20260915
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418758
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418758
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 2.1: Content Quiz [REL C 225-029]
+DTSTART;VALUE=DATE:20260915
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418799
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418799
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 2.2: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20260915
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418797
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418797
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 2.3: Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20260915
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418833
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418833
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 2.4: Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20260915
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418771
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418771
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Discussion 2: Doctrinal Messages of the First Vision [REL C 2
+ 25-029]
+DTSTART;VALUE=DATE:20260915
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418847
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418847
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Analysis Assignment 3: Witnesses of the Book of Mormon [REL C 
+ 225-029]
+DTSTART;VALUE=DATE:20260922
+DTSTAMP:20260812T171200Z
+UID:event-assignment-1418747
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418747
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Connect Session Quiz 3 [REL C 225-029]
+DTSTART;VALUE=DATE:20260922
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418802
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418802
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 3.1: Content Quiz [REL C 225-029]
+DTSTART;VALUE=DATE:20260922
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418816
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418816
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 3.2: Content Quiz [REL C 225-029]
+DTSTART;VALUE=DATE:20260922
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418765
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418765
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 3.3: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20260922
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418751
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 3.4: Content Quiz [REL C 225-029]
+DTSTART;VALUE=DATE:20260922
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418748
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418748
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 3.5: Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20260922
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418763
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418763
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Discussion 3: Foundational Doctrinal Messages [REL C 225-029]
+DTSTART;VALUE=DATE:20260922
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418846
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418846
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Analysis Assignment 4: Organization of the Priesthood [REL C 2
+ 25-029]
+DTSTART;VALUE=DATE:20260929
+DTSTAMP:20260812T171300Z
+UID:event-assignment-1418798
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418798
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Connect Session Quiz 4 [REL C 225-029]
+DTSTART;VALUE=DATE:20260929
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418826
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418826
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 4.1: Content Quiz [REL C 225-029]
+DTSTART;VALUE=DATE:20260929
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418813
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418813
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 4.2: Content Quiz [REL C 225-029]
+DTSTART;VALUE=DATE:20260929
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418772
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418772
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 4.3: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20260929
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418782
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418782
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 4.4: Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20260929
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418804
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 4.5: Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20260929
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418817
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418817
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Discussion 4: Women and the Priesthood [REL C 225-029]
+DTSTART;VALUE=DATE:20260929
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418848
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=09&year=2026#assignment_1418848
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Analysis Assignment 5: Analyzing a D&C Revelation [REL C 225-0
+ 29]
+DTSTART;VALUE=DATE:20261006
+DTSTAMP:20260812T171300Z
+UID:event-assignment-1418832
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418832
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Connect Session Quiz 5 [REL C 225-029]
+DTSTART;VALUE=DATE:20261006
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418780
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418780
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 5.1: Content Quiz [REL C 225-029]
+DTSTART;VALUE=DATE:20261006
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418783
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418783
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 5.2: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261006
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418767
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418767
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 5.3: Content Quiz [REL C 225-029]
+DTSTART;VALUE=DATE:20261006
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418785
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418785
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Discussion 5: Joseph’s Promise [REL C 225-029]
+DTSTART;VALUE=DATE:20261006
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418852
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418852
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Analysis Assignment 6: Gaining Knowledge from Revealed Scriptu
+ re [REL C 225-029]
+DTSTART;VALUE=DATE:20261013
+DTSTAMP:20260812T171500Z
+UID:event-assignment-1418800
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418800
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Connect Session Quiz 6 [REL C 225-029]
+DTSTART;VALUE=DATE:20261013
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418745
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418745
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 6.1: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261013
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418822
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418822
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 6.2: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261013
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418757
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 6.3: Content Quiz [REL C 225-029]
+DTSTART;VALUE=DATE:20261013
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418744
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418744
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Discussion 6: The Book of Abraham [REL C 225-029]
+DTSTART;VALUE=DATE:20261013
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418853
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Analysis Assignment 7: The Law of Consecration Today [REL C 22
+ 5-029]
+DTSTART;VALUE=DATE:20261020
+DTSTAMP:20260813T145400Z
+UID:event-assignment-1418793
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418793
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Connect Session Quiz 7 [REL C 225-029]
+DTSTART;VALUE=DATE:20261020
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418761
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418761
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 7.1: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261020
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418843
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418843
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 7.2: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261020
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418814
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418814
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 7.3: Content Quiz [REL C 225-029]
+DTSTART;VALUE=DATE:20261020
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418769
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418769
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 7.4: Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261020
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418806
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418806
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Discussion 7: The City of Zion [REL C 225-029]
+DTSTART;VALUE=DATE:20261020
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418849
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418849
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midcourse Exam (Proctored) [REL C 225-029]
+DTSTART;VALUE=DATE:20261024
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418776
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418776
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Analysis Assignment 8: Kirtland Endowment [REL C 225-029]
+DTSTART;VALUE=DATE:20261027
+DTSTAMP:20260813T145400Z
+UID:event-assignment-1418831
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418831
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Connect Session Quiz 8 [REL C 225-029]
+DTSTART;VALUE=DATE:20261027
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418825
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418825
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 8.1: Kirtland Video Viewing Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261027
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418786
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418786
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 8.2: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261027
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418755
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418755
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 8.3: Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261027
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418819
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418819
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 8.4: Content Quiz [REL C 225-029]
+DTSTART;VALUE=DATE:20261027
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418777
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 8.5: Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261027
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418791
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418791
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 8.6: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261027
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418844
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418844
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Discussion 8: The Word of Wisdom [REL C 225-029]
+DTSTART;VALUE=DATE:20261027
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418851
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=10&year=2026#assignment_1418851
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Analysis Assignment 9: Lessons from Liberty Jail [REL C 225-02
+ 9]
+DTSTART;VALUE=DATE:20261103
+DTSTAMP:20260813T145300Z
+UID:event-assignment-1418827
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418827
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Connect Session Quiz 9 [REL C 225-029]
+DTSTART;VALUE=DATE:20261103
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418845
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418845
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz: 9.1: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261103
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418805
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418805
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz: 9.2: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261103
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418835
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418835
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz: 9.3: Content Quiz [REL C 225-029]
+DTSTART;VALUE=DATE:20261103
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418815
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Analysis Assignment 10: Analyzing the Relief Society [REL C 22
+ 5-029]
+DTSTART;VALUE=DATE:20261110
+DTSTAMP:20260813T145300Z
+UID:event-assignment-1418752
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418752
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Connect Session Quiz 10 [REL C 225-029]
+DTSTART;VALUE=DATE:20261110
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418818
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418818
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 10.1: Content Quiz [REL C 225-029]
+DTSTART;VALUE=DATE:20261110
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418834
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418834
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 10.2: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261110
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418829
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418829
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 10.3: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261110
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418787
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418787
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 10.4: Content Quiz [REL C 225-029]
+DTSTART;VALUE=DATE:20261110
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418828
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418828
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 10.5: Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261110
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418839
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418839
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Discussion 10: Relief Society [REL C 225-029]
+DTSTART;VALUE=DATE:20261110
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418857
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418857
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Analysis Assignment 11: Eternal Marriage [REL C 225-029]
+DTSTART;VALUE=DATE:20261117
+DTSTAMP:20260813T145300Z
+UID:event-assignment-1418801
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418801
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Connect Session Quiz 11 [REL C 225-029]
+DTSTART;VALUE=DATE:20261117
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418753
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418753
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 11.1: Eternal Marriage Video Viewing Check [REL C 225-029
+ ]
+DTSTART;VALUE=DATE:20261117
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418774
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418774
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 11.2: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261117
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418838
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418838
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 11.3: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261117
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418750
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418750
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 11.4: Content Quiz [REL C 225-029]
+DTSTART;VALUE=DATE:20261117
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418821
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418821
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 11.5: Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261117
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418768
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418768
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Discussion 11: Plural Marriage [REL C 225-029]
+DTSTART;VALUE=DATE:20261117
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418854
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418854
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Analysis Assignment 12: Joseph Smith [REL C 225-029]
+DTSTART;VALUE=DATE:20261124
+DTSTAMP:20260813T145200Z
+UID:event-assignment-1418809
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418809
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Connect Session Quiz 12 [REL C 225-029]
+DTSTART;VALUE=DATE:20261124
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418810
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418810
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 12.1: Western Exodus Video Viewing Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261124
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418811
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418811
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 12.2: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261124
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418749
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418749
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 12.3: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261124
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418837
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418837
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 12.4: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261124
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418762
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418762
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 12.5: Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261124
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418775
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418775
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Discussion 12: Testimony of the Restoration of the Gospel [RE
+ L C 225-029]
+DTSTART;VALUE=DATE:20261124
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418858
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=11&year=2026#assignment_1418858
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Analysis Assignment 13: Assessing Desired Spiritual Outcomes [
+ REL C 225-029]
+DTSTART;VALUE=DATE:20261201
+DTSTAMP:20260813T145200Z
+UID:event-assignment-1418773
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=12&year=2026#assignment_1418773
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Connect Session Quiz 13 [REL C 225-029]
+DTSTART;VALUE=DATE:20261201
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418778
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=12&year=2026#assignment_1418778
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 13.1: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261201
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418803
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=12&year=2026#assignment_1418803
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 13.2: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261201
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418754
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=12&year=2026#assignment_1418754
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 13.3: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261201
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418830
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=12&year=2026#assignment_1418830
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 13.4: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261201
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418794
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=12&year=2026#assignment_1418794
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 13.5: Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261201
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418808
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=12&year=2026#assignment_1418808
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Discussion 13: The Family Proclamation  [REL C 225-029]
+DTSTART;VALUE=DATE:20261201
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418860
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=12&year=2026#assignment_1418860
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Connect Session Quiz 14 [REL C 225-029]
+DTSTART;VALUE=DATE:20261208
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418746
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=12&year=2026#assignment_1418746
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 14.1: Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261208
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418779
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=12&year=2026#assignment_1418779
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 14.2: Content Quiz and Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261208
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418841
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=12&year=2026#assignment_1418841
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:❖ Quiz 14.3: Reading Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261208
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418790
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=12&year=2026#assignment_1418790
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BYU Course Evaluation Check [REL C 225-029]
+DTSTART;VALUE=DATE:20261208
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418836
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=12&year=2026#assignment_1418836
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BYU Online End-of-Course Survey [REL C 225-029]
+DTSTART;VALUE=DATE:20261208
+DTSTAMP:20260811T203900Z
+UID:event-assignment-1418764
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=12&year=2026#assignment_1418764
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:💬 Discussion 14: Reflection [REL C 225-029]
+DTSTART;VALUE=DATE:20261208
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418855
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=12&year=2026#assignment_1418855
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Extra Credit: Gone Are the Days [REL C 225-029]
+DTSTART;VALUE=DATE:20261209
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418861
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=12&year=2026#assignment_1418861
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Extra Credit: JFSB (EIZ) [REL C 225-029]
+DTSTART;VALUE=DATE:20261209
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418862
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=12&year=2026#assignment_1418862
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reflection Paper [REL C 225-029]
+DTSTART;VALUE=DATE:20261209
+DTSTAMP:20260811T204100Z
+UID:event-assignment-1418864
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=12&year=2026#assignment_1418864
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final Exam (Proctored) [REL C 225-029]
+DTSTART;VALUE=DATE:20261216
+DTSTAMP:20260811T204000Z
+UID:event-assignment-1418788
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _37977&month=12&year=2026#assignment_1418788
+END:VEVENT
+END:VCALENDAR
