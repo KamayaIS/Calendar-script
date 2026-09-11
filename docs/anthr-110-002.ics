@@ -7,7 +7,7 @@ X-WR-CALNAME:Kevin Alejandro Amaya Calendar (Canvas) — ANTHR 110-002
 BEGIN:VEVENT
 SUMMARY:Assignment: Introduction Reflection [ANTHR 110-002]
 DTSTART;VALUE=DATE:20260904
-DTSTAMP:20260911T153000Z
+DTSTAMP:20260911T194600Z
 UID:event-assignment-1465159
 SEQUENCE:0
 CLASS:PUBLIC
@@ -1223,5 +1223,16 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  browser only)</div>\n<p>&nbsp\;</p>\n</div><script src="https://instructur
  e-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409019/d
  p_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pilot Feedback 4 [ANTHR 110-002]
+DTSTART:20261002T145900Z
+DTEND:20261002T145900Z
+DTSTAMP:20260911T204000Z
+UID:event-assignment-1465144
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36994&month=10&year=2026#assignment_1465144
 END:VEVENT
 END:VCALENDAR
