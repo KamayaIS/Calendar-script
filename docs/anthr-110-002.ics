@@ -7,7 +7,7 @@ X-WR-CALNAME:Kevin Alejandro Amaya Calendar (Canvas) — ANTHR 110-002
 BEGIN:VEVENT
 SUMMARY:Assignment: Introduction Reflection [ANTHR 110-002]
 DTSTART;VALUE=DATE:20260904
-DTSTAMP:20260903T144400Z
+DTSTAMP:20260911T153000Z
 UID:event-assignment-1465159
 SEQUENCE:0
 CLASS:PUBLIC
@@ -68,12 +68,12 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  tblr dp-padding-direction-tblr dp-border-style-solid dp-border-dir-all" st
  yle="padding: 0px 15px 10px\; background-color: #fffbf5\; color: #000000\;
   margin-top: 25px\; border-color: #b38f6c\; border-width: 1px\; border-rad
- ius: 5px\; margin-left: 20px\; margin-right: 20px\;">\n<p class="lead"><st
+ ius: 0px\; margin-left: 20px\; margin-right: 20px\;">\n<p class="lead"><st
  rong>This assignment is due by Friday at 11:59 p.m.</strong></p>\n</div>\n
  <div class="dp-content-block dp-margin-direction-tblr dp-padding-direction
  -tblr dp-border-style-solid dp-border-dir-all" style="padding: 0px 15px 10
  px\; background-color: #fffbf5\; color: #000000\; margin-top: 25px\; borde
- r-color: #b38f6c\; border-width: 1px\; border-radius: 5px\; margin-left: 2
+ r-color: #b38f6c\; border-width: 1px\; border-radius: 0px\; margin-left: 2
  0px\; margin-right: 20px\;">\n<h2 class="dp-margin-direction-tblr dp-has-i
  con" style="background-color: #f1e6d4\; color: #000000\; padding-top: 10px
  \; padding-left: 15px\; margin: 0px -15px 20px\; padding-bottom: 10px\; te
@@ -100,7 +100,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  ock dp-margin-direction-tblr dp-padding-direction-tblr dp-border-style-sol
  id dp-border-dir-all" style="padding: 0px 15px 10px\; background-color: #f
  ffbf5\; color: #000000\; margin-top: 25px\; border-color: #b38f6c\; border
- -width: 1px\; border-radius: 5px\; margin-left: 20px\; margin-right: 20px
+ -width: 1px\; border-radius: 0px\; margin-left: 20px\; margin-right: 20px
  \;">\n<h2 class="dp-has-icon" style="background-color: #f1e6d4\; color: #0
  00000\; padding-top: 10px\; padding-left: 15px\; margin: 0px -15px 20px\; 
  padding-bottom: 10px\; text-align: left\; border-left: 5px #3c0a00\; borde
@@ -140,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quiz: Syllabus [ANTHR 110-002]
 DTSTART;VALUE=DATE:20260904
-DTSTAMP:20260903T144400Z
+DTSTAMP:20260911T145500Z
 UID:event-assignment-1465143
 SEQUENCE:0
 CLASS:PUBLIC
@@ -208,7 +208,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Discuss: Share Your Artifact Reply to Topic [ANTHR 110-002]
 DTSTART;VALUE=DATE:20260909
-DTSTAMP:20260911T031200Z
+DTSTAMP:20260911T155000Z
 UID:event-sub-assignment-1465153
 SEQUENCE:0
 CLASS:PUBLIC
@@ -265,7 +265,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  bsp\;</p>\n<div class="dp-content-block dp-margin-direction-tblr dp-paddin
  g-direction-tblr dp-border-style-solid dp-border-dir-all" style="padding: 
  0px 15px 10px\; background-color: #fffbf5\; color: #000000\; margin-top: 2
- 5px\; border-color: #b38f6c\; border-width: 1px\; border-radius: 5px\; mar
+ 5px\; border-color: #b38f6c\; border-width: 1px\; border-radius: 0px\; mar
  gin-left: 20px\; margin-right: 20px\;">\n<h2 class="dp-margin-direction-tb
  lr dp-has-icon" style="background-color: #f1e6d4\; color: #000000\; paddin
  g-top: 10px\; padding-left: 15px\; margin: 0px -15px 20px\; padding-bottom
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:Pilot Feedback 1 [ANTHR 110-002]
 DTSTART:20260911T145900Z
 DTEND:20260911T145900Z
-DTSTAMP:20260903T144400Z
+DTSTAMP:20260911T145300Z
 UID:event-assignment-1465145
 SEQUENCE:0
 CLASS:PUBLIC
@@ -438,7 +438,7 @@ BEGIN:VEVENT
 SUMMARY:Share Your Adventure [ANTHR 110-002]
 DTSTART:20260911T230000Z
 DTEND:20260911T230000Z
-DTSTAMP:20260911T031200Z
+DTSTAMP:20260911T155000Z
 UID:event-assignment-1465147
 SEQUENCE:0
 CLASS:PUBLIC
@@ -490,7 +490,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  "dp-content-block dp-margin-direction-tblr dp-padding-direction-tblr dp-bo
  rder-style-solid dp-border-dir-all" style="padding: 0px 15px 10px\; backgr
  ound-color: #fffbf5\; color: #000000\; margin-top: 25px\; border-color: #b
- 38f6c\; border-width: 1px\; border-radius: 5px\; margin-left: 20px\; margi
+ 38f6c\; border-width: 1px\; border-radius: 0px\; margin-left: 20px\; margi
  n-right: 20px\;">\n<h2 class="dp-margin-direction-tblr dp-has-icon" style=
  "background-color: #f1e6d4\; color: #000000\; padding-top: 10px\; padding-
  left: 15px\; margin: 0px -15px 20px\; padding-bottom: 10px\; text-align: l
@@ -535,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:Assignment: Choose-Your-Own Archeological Adventure [ANTHR 110-002
  ]
 DTSTART;VALUE=DATE:20260911
-DTSTAMP:20260903T144400Z
+DTSTAMP:20260911T151500Z
 UID:event-assignment-1465158
 SEQUENCE:0
 CLASS:PUBLIC
@@ -591,7 +591,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  ass="dp-content-block dp-margin-direction-tblr dp-padding-direction-tblr d
  p-border-style-solid dp-border-dir-all" style="padding: 0px 15px 10px\; ba
  ckground-color: #fffbf5\; color: #000000\; margin-top: 25px\; border-color
- : #b38f6c\; border-width: 1px\; border-radius: 5px\; margin-left: 20px\; m
+ : #b38f6c\; border-width: 1px\; border-radius: 0px\; margin-left: 20px\; m
  argin-right: 20px\;">\n<p class="lead">In this assignment\, you will choos
  e a learning adventure that helps you explore archeology. Use this opportu
  nity to select the adventure that interests you most. <strong>This assignm
@@ -599,7 +599,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  ntent-block dp-margin-direction-tblr dp-padding-direction-tblr dp-border-s
  tyle-solid dp-border-dir-all" style="padding: 0px 15px 10px\; background-c
  olor: #fffbf5\; color: #000000\; margin-top: 25px\; border-color: #b38f6c
- \; border-width: 1px\; border-radius: 5px\; margin-left: 20px\; margin-rig
+ \; border-width: 1px\; border-radius: 0px\; margin-left: 20px\; margin-rig
  ht: 20px\;">\n<h2 class="dp-margin-direction-tblr dp-has-icon" style="back
  ground-color: #f1e6d4\; color: #000000\; padding-top: 10px\; padding-left:
   15px\; margin: 0px -15px 20px\; padding-bottom: 10px\; text-align: left\;
@@ -624,7 +624,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  lass="dp-content-block dp-margin-direction-tblr dp-padding-direction-tblr 
  dp-border-style-solid dp-border-dir-all" style="padding: 0px 15px 10px\; b
  ackground-color: #fffbf5\; color: #000000\; margin-top: 25px\; border-colo
- r: #b38f6c\; border-width: 1px\; border-radius: 5px\; margin-left: 20px\; 
+ r: #b38f6c\; border-width: 1px\; border-radius: 0px\; margin-left: 20px\; 
  margin-right: 20px\;">\n<h2 class="dp-has-icon" style="background-color: #
  f1e6d4\; color: #000000\; padding-top: 10px\; padding-left: 15px\; margin:
   0px -15px 20px\; padding-bottom: 10px\; text-align: left\; border-left: 5
@@ -660,7 +660,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Discuss: Share Your Artifact Required Replies (2) [ANTHR 110-002]
 DTSTART;VALUE=DATE:20260911
-DTSTAMP:20260911T031200Z
+DTSTAMP:20260911T155000Z
 UID:event-sub-assignment-1465154
 SEQUENCE:0
 CLASS:PUBLIC
@@ -717,7 +717,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  bsp\;</p>\n<div class="dp-content-block dp-margin-direction-tblr dp-paddin
  g-direction-tblr dp-border-style-solid dp-border-dir-all" style="padding: 
  0px 15px 10px\; background-color: #fffbf5\; color: #000000\; margin-top: 2
- 5px\; border-color: #b38f6c\; border-width: 1px\; border-radius: 5px\; mar
+ 5px\; border-color: #b38f6c\; border-width: 1px\; border-radius: 0px\; mar
  gin-left: 20px\; margin-right: 20px\;">\n<h2 class="dp-margin-direction-tb
  lr dp-has-icon" style="background-color: #f1e6d4\; color: #000000\; paddin
  g-top: 10px\; padding-left: 15px\; margin: 0px -15px 20px\; padding-bottom
@@ -768,7 +768,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quiz: Cultural and Linguistic Anthropology   [ANTHR 110-002]
 DTSTART;VALUE=DATE:20260911
-DTSTAMP:20260903T144400Z
+DTSTAMP:20260911T151500Z
 UID:event-assignment-1465141
 SEQUENCE:0
 CLASS:PUBLIC
@@ -838,7 +838,7 @@ BEGIN:VEVENT
 SUMMARY:Pilot Feedback 2 [ANTHR 110-002]
 DTSTART:20260918T145900Z
 DTEND:20260918T145900Z
-DTSTAMP:20260903T144400Z
+DTSTAMP:20260911T151500Z
 UID:event-assignment-1465137
 SEQUENCE:0
 CLASS:PUBLIC
@@ -955,18 +955,148 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Abstract: Reinhard Article [ANTHR 110-002]
 DTSTART;VALUE=DATE:20260918
-DTSTAMP:20260903T144400Z
+DTSTAMP:20260911T145300Z
 UID:event-assignment-1465157
 SEQUENCE:0
 CLASS:PUBLIC
+DESCRIPTION:************************************\nLesson 3 Abstract: Reinh
+ ard Article\n************************************\n\n[] (https://byu.instr
+ ucture.com/courses/36994/files/13577493/download?download_frd=1&hidden=1)
+ \n\n \n\nWriting an abstract is an important academic skill. This assignm
+ ent will help you practice identifying the main ideas of a scholarly artic
+ le and summarizing them clearly and concisely.\n\n---------------\n   In
+ structions\n---------------\n\n1. Read about the [Order of Reading] (https
+ ://library.potsdam.edu/how_to_read_an_article/order_of_reading) a scholarl
+ y article.\n2. Read the Reinhard article\, [A Coprological View of Ancestr
+ al Pueblo Cannabalism] (https://byu.instructure.com/courses/36994/files/13
+ 577512?wrap=1).\n3. Write an abstract according to the [Abstract Assignmen
+ t Rubric] (https://byu.instructure.com/courses/36994/files/13577513?wrap=1
+ ).\n\nTip: Refer to the Titanic article and abstract below for an example 
+ of how an abstract should be written.\n\nArticle: [Archaeology of Titanic
+  ] (https://byu.instructure.com/courses/36994/files/13577511?wrap=1)\n\nA
+ bstract example: [Archaeology of Titanic Abstract] (https://byu.instructur
+ e.com/courses/36994/files/13577510?wrap=1)\n\nOther examples can be found 
+ through [JSTOR American Antiquity] (https://www.jstor.org/journal/ameranti
+ )\n\n------------\n  Submission\n------------\n\nSubmit your abstract as
+  one of the following by Friday at 11:59 p.m.: \n\n* .docx\n\n* .doc\n\n
+  \n\nImage Credits\n-------------\n\nAndrii Lysenko/stock.adobe.com\, [Ar
+ chaeologist working late night] (https://stock.adobe.com/images/archeologi
+ st-working-late-night-in-office-reading-old-book-about-archaeology/6484478
+ 83?prev_url=detail) (Adobe Stock Education License). [Image has been alte
+ red from the original.]\n\nModule Item Completion (browser only)\n\n 
 URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
  _36994&month=09&year=2026#assignment_1465157
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><link rel="stylesheet" href="https://instructure-uploads.s3.a
+ mazonaws.com/account_74070000000000001/attachments/8073295/canvas-byuonlin
+ e-app.css"><div id="dp-wrapper" class="dp-wrapper dp-badge" style="color: 
+ #000000\; border-radius: 0px\; background-color: #ffffff\; padding-bottom:
+  15px\;">\n<header class="dp-header dp-basic-color" style="background-colo
+ r: #8a4b2a\; color: #ffffff\; border-radius: 5px\; border-left-width: 0px
+ \; border-right-width: 0px\;">\n<h1 class="dp-heading">\n<span class="dp-h
+ eader-pre dp-border-style-solid dp-border-dir-tblr dp-shadow-b1" style="ba
+ ckground-color: #3c0a00\; color: #ffffff\; border-left-color: #3c0a00\; bo
+ rder-width: 0px 0px 0px 3px\; border-radius: 5px\;"> <span class="dp-heade
+ r-pre-1 dp-padding-direction-tblr" style="padding: 17px 7px 0px 0px\; bord
+ er-radius: 10px\;">Lesson 3</span> </span> <span class="dp-header-title fl
+ oat-clear dp-padding-direction-tblr" style="padding: 20px 15px 20px 10px\;
+  border-radius: 5px\;">Abstract: Reinhard Article</span>\n</h1>\n<p class=
+ "dp-border-dir-tblr dp-border-style-solid dp-margin-direction-tblr dp-padd
+ ing-direction-tblr" style="border-width: 0px\; margin-top: -12px\; margin-
+ bottom: 6px\; margin-left: 0px\;"><img class="dp-full-width" style="height
+ : auto\;" role="presentation" src="https://byu.instructure.com/courses/369
+ 94/files/13577493/download?download_frd=1&amp\;hidden=1" alt="" width="920
+ " height="184" data-api-endpoint="https://byu.instructure.com/api/v1/cours
+ es/36994/files/13577493" data-api-returntype="File" loading="lazy"></p>\n<
+ /header>\n<p>&nbsp\;</p>\n<div class="dp-content-block dp-margin-direction
+ -tblr dp-padding-direction-tblr dp-border-style-solid dp-border-dir-all" s
+ tyle="padding: 0px 15px 10px\; background-color: #fffbf5\; color: #000000
+ \; margin-top: 25px\; border-color: #b38f6c\; border-width: 1px\; border-r
+ adius: 0px\; margin-left: 20px\; margin-right: 20px\;">\n<p class="lead">W
+ riting an abstract is an important academic skill. This assignment will he
+ lp you practice identifying the main ideas of a scholarly article and summ
+ arizing them clearly and concisely.</p>\n</div>\n<div class="dp-content-bl
+ ock dp-margin-direction-tblr dp-padding-direction-tblr dp-border-style-sol
+ id dp-border-dir-all" style="padding: 0px 15px 10px\; background-color: #f
+ ffbf5\; color: #000000\; margin-top: 25px\; border-color: #b38f6c\; border
+ -width: 1px\; border-radius: 0px\; margin-left: 20px\; margin-right: 20px
+ \;">\n<h2 class="dp-margin-direction-tblr dp-has-icon" style="background-c
+ olor: #f1e6d4\; color: #000000\; padding-top: 10px\; padding-left: 15px\; 
+ margin: 0px -15px 20px\; padding-bottom: 10px\; text-align: left\; border-
+ left: 5px #3c0a00\; border-top-style: none\; border-bottom: 2px solid #3c0
+ a00\; border-top-color: #3c0a00\; border-right-color: #3c0a00\; font-size:
+  22px\;">\n<i class="fas fa-tasks"><span class="dp-icon-content" style="di
+ splay: none\;">&nbsp\;</span></i>&nbsp\; Instructions</h2>\n1. Read about 
+ the <a class="external dp-external-link" href="https://library.potsdam.edu
+ /how_to_read_an_article/order_of_reading">Order of Reading</a> a scholarly
+  article.<br>2. Read the Reinhard article\, <em><a class="instructure_file
+ _link instructure_scribd_file inline_disabled" title="ANTHR110 - Lesson 3 
+ - Abstract 1_Reinhard 2006.pdf" href="https://byu.instructure.com/courses/
+ 36994/files/13577512?wrap=1" target="_blank" data-api-endpoint="https://by
+ u.instructure.com/api/v1/courses/36994/files/13577512" data-api-returntype
+ ="File">A Coprological View of Ancestral Pueblo Cannabalism</a>.</em><br>3
+ . Write an abstract according to the <a class="instructure_file_link instr
+ ucture_scribd_file inline_disabled" title="ANTHR110 - Lesson 3 - Abstract 
+ Assignment Rubric.doc" href="https://byu.instructure.com/courses/36994/fil
+ es/13577513?wrap=1" target="_blank" data-api-endpoint="https://byu.instruc
+ ture.com/api/v1/courses/36994/files/13577513" data-api-returntype="File">A
+ bstract Assignment Rubric</a>.<br><br>\n<div class="dp-callout dp-callout-
+ placeholder card dp-callout-position-default dp-callout-type-default dp-ca
+ llout-color-dp-primary" style="border-color: #000000 #000000 #000000 #5f7c
+ 6c\;">\n<div class="card-body">\n<p>Tip: Refer to the Titanic article and 
+ abstract below for an example of how an abstract should be written.</p>\n<
+ p>Article: <a class="instructure_file_link instructure_scribd_file inline_
+ disabled" title="ANTHR110 - Lesson 3 - Archaeology of the Titanic_Abstract
+  Example Article.pdf" href="https://byu.instructure.com/courses/36994/file
+ s/13577511?wrap=1" target="_blank" data-api-endpoint="https://byu.instruct
+ ure.com/api/v1/courses/36994/files/13577511" data-api-returntype="File"><e
+ m>Archaeology of Titanic&nbsp\;</em></a></p>\n<p>Abstract example: <a clas
+ s="instructure_file_link instructure_scribd_file inline_disabled" title="A
+ NTHR110 - Lesson 3 - Archaeology of Titanic_Abstract Example.docx" href="h
+ ttps://byu.instructure.com/courses/36994/files/13577510?wrap=1" target="_b
+ lank" data-api-endpoint="https://byu.instructure.com/api/v1/courses/36994/
+ files/13577510" data-api-returntype="File"><em>Archaeology of Titanic Abst
+ ract</em></a></p>\n<p>Other examples can be found through <a href="https:/
+ /www.jstor.org/journal/ameranti" target="_blank">JSTOR American Antiquity<
+ /a></p>\n</div>\n</div>\n</div>\n<div class="dp-content-block dp-margin-di
+ rection-tblr dp-padding-direction-tblr dp-border-style-solid dp-border-dir
+ -all" style="padding: 0px 15px 10px\; background-color: #fffbf5\; color: #
+ 000000\; margin-top: 25px\; border-color: #b38f6c\; border-width: 1px\; bo
+ rder-radius: 0px\; margin-left: 20px\; margin-right: 20px\;">\n<h2 class="
+ dp-has-icon" style="background-color: #f1e6d4\; color: #000000\; padding-t
+ op: 10px\; padding-left: 15px\; margin: 0px -15px 20px\; padding-bottom: 1
+ 0px\; text-align: left\; border-left: 5px #3c0a00\; border-top-style: none
+ \; border-bottom: 2px solid #3c0a00\; border-top-color: #3c0a00\; border-r
+ ight-color: #3c0a00\; font-size: 22px\;">\n<i class="dp-icon fas fa-pen-fa
+ ncy" aria-hidden="true"><span class="dp-icon-content" style="display: none
+ \;">&nbsp\;</span></i>&nbsp\;Submission</h2>\n<p>Submit your abstract as o
+ ne of the following <strong>by Friday at 11:59 p.m.</strong>:&nbsp\;</p>\n
+ <ul>\n<li>.docx</li>\n<li>.doc</li>\n</ul>\n</div>\n<p>&nbsp\;</p>\n<div c
+ lass="dp-panels-wrapper dp-accordion-default dp-padding-direction-tblr dp-
+ margin-direction-tblr" style="margin-left: 20px\; margin-right: 20px\; col
+ or: #fffbf5\;">\n<div class="dp-panel-group">\n<h3 class="dp-panel-heading
+ " style="background-color: #d8c3a5\; color: #000000\; border-color: #d8c3a
+ 5\;">Image Credits</h3>\n<div class="dp-panel-content" style="background-c
+ olor: #fffbf5\; color: #000000\;">Andrii Lysenko/stock.adobe.com\, <a clas
+ s="external dp-external-link" href="https://stock.adobe.com/images/archeol
+ ogist-working-late-night-in-office-reading-old-book-about-archaeology/6484
+ 47883?prev_url=detail" target="_blank">Archaeologist working late night</a
+ >&nbsp\;(Adobe Stock Education License). [Image has been altered from the 
+ original.]</div>\n</div>\n</div>\n<div class="dp-progress-placeholder dp-m
+ odule-progress-completion dp-padding-direction-tblr dp-margin-direction-tb
+ lr dp-border-style-solid dp-border-dir-all" style="display: none\; margin:
+  20px\; background-color: #8a4b2a\; color: #ffffff\; border-radius: 0px\; 
+ border-width: 1px\; border-color: #5f7c6c\;">Module Item Completion (brows
+ er only)</div>\n<p>&nbsp\;</p>\n</div><script src="https://instructure-upl
+ oads.s3.amazonaws.com/account_74070000000000001/attachments/8409019/dp_app
+ .js"></script>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quiz: Biological Anthropology and the History of Archaeology [ANTH
  R 110-002]
 DTSTART;VALUE=DATE:20260918
-DTSTAMP:20260903T144400Z
+DTSTAMP:20260911T145300Z
 UID:event-assignment-1465136
 SEQUENCE:0
 CLASS:PUBLIC
@@ -977,7 +1107,7 @@ BEGIN:VEVENT
 SUMMARY:Pilot Feedback 3 [ANTHR 110-002]
 DTSTART:20260925T145900Z
 DTEND:20260925T145900Z
-DTSTAMP:20260903T144400Z
+DTSTAMP:20260911T145200Z
 UID:event-assignment-1465139
 SEQUENCE:0
 CLASS:PUBLIC
