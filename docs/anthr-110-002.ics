@@ -1225,6 +1225,16 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  p_app.js"></script>
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exam 1 (Proctored) [ANTHR 110-002]
+DTSTART;VALUE=DATE:20260928
+DTSTAMP:20260912T013100Z
+UID:event-assignment-1465146
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36994&month=09&year=2026#assignment_1465146
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pilot Feedback 4 [ANTHR 110-002]
 DTSTART:20261002T145900Z
 DTEND:20261002T145900Z
