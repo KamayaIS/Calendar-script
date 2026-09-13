@@ -141,9 +141,9 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  8409019/dp_app.js"></script>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Session 3: EYARC: Prompt Engineering 2 [IS 111-002]
+SUMMARY:Session 3: EYARC: Prompt Hierarchies and AI Safety [IS 111-002]
 DTSTART;VALUE=DATE:20260919
-DTSTAMP:20260912T111600Z
+DTSTAMP:20260913T150100Z
 UID:event-assignment-1500103
 SEQUENCE:0
 CLASS:PUBLIC
