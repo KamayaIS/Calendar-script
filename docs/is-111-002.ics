@@ -617,8 +617,16 @@ DTSTAMP:20260912T112100Z
 UID:event-assignment-1500104
 SEQUENCE:0
 CLASS:PUBLIC
+DESCRIPTION:This assignment is completed on the EYARC Experience platform.
+  Scores will be imported after the due date.
 URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
  _38450&month=11&year=2026#assignment_1500104
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
+ orm. Scores will be imported after the due date.</p><script src="https://i
+ nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
+ 8409019/dp_app.js"></script>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Session 12: Challenges with GenAI Reply to Topic [IS 111-002]
