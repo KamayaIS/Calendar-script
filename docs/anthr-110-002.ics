@@ -1096,12 +1096,72 @@ BEGIN:VEVENT
 SUMMARY:Quiz: Biological Anthropology and the History of Archaeology [ANTH
  R 110-002]
 DTSTART;VALUE=DATE:20260918
-DTSTAMP:20260911T145300Z
+DTSTAMP:20260913T060000Z
 UID:event-assignment-1465136
 SEQUENCE:0
 CLASS:PUBLIC
+DESCRIPTION:**************************************************************
+ ********\nLesson 3 Quiz: Biological Anthropology and the History of Archae
+ ology\n\n*****************************************************************
+ *****\n\n[] (https://byu.instructure.com/courses/36994/files/13577519/down
+ load?download_frd=1&hidden=1)\n\n \n\nAnswer the questions based on the t
+ wo readings for this week. This quiz will be timed (7 minutes)\, and you a
+ re not allowed to use any notes\, the lectures\, or the book.\n\n \n\n---
+ ----------\nImage Credits\n-------------\n\nChatGPT\, response to "anthrop
+ ology type banner\, 10:1 that could indicate a "quiz" page\," [OpenAI] (ht
+ tps://chat.openai.com)\, June 3\, 2026.\n\nModule Item Completion (browser
+  only)
 URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
  _36994&month=09&year=2026#assignment_1465136
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><link rel="stylesheet" href="https://instructure-uploads.s3.a
+ mazonaws.com/account_74070000000000001/attachments/8073295/canvas-byuonlin
+ e-app.css"><div id="dp-wrapper" class="dp-wrapper dp-flat-sections variati
+ on-2 dp-padding-direction-tblr" style="color: #000000\; background-color: 
+ #fffbf5\;"><header class="dp-header dp-basic-color" style="background-colo
+ r: #8a4b2a\; color: #ffffff\; border-left-width: 0px\; border-right-width:
+  0px\;">\n<h1 class="dp-heading"><span class="dp-header-pre dp-border-styl
+ e-solid dp-border-dir-tblr dp-shadow-b1" style="background-color: #3c0a00
+ \; color: #ffffff\; border-left-color: #3c0a00\; border-width: 0px 0px 0px
+  3px\;"> <span class="dp-header-pre-1 dp-padding-direction-tblr" style="pa
+ dding: 17px 7px 0px 0px\; font-size: 20px\;">Lesson 3</span> </span> <span
+  class="dp-header-title float-clear dp-padding-direction-tblr" style="padd
+ ing: 20px 15px 20px 10px\; font-size: 30px\;">Quiz: Biological Anthropolog
+ y and the History of Archaeology<br></span></h1>\n<p class="dp-border-dir-
+ tblr dp-border-style-solid dp-margin-direction-tblr dp-padding-direction-t
+ blr" style="border-width: 0px\; margin-top: -12px\; margin-bottom: 6px\; m
+ argin-left: 0px\;"><img class="dp-full-width" style="height: auto\;" role=
+ "presentation" src="https://byu.instructure.com/courses/36994/files/135775
+ 19/download?download_frd=1&amp\;hidden=1" alt="" width="797" height="211.0
+ 16" data-api-endpoint="https://byu.instructure.com/api/v1/courses/36994/fi
+ les/13577519" data-api-returntype="File" data-name="ChatGPT Image Jun 3\, 
+ 2026\, 09_32_45 AM.png" data-size="826 KB" data-available-range="false" da
+ ta-hidden="false" data-file-id="13112870" data-filename="ChatGPT+Image+Jun
+ +3%2C+2026%2C+09_32_45+AM.png" data-locked="false" loading="lazy"></p>\n</
+ header>\n<p>&nbsp\;</p>\n<div class="dp-content-block dp-margin-direction-
+ tblr dp-padding-direction-tblr dp-border-style-solid dp-border-dir-all" st
+ yle="padding: 0px 15px 10px\; background-color: #f1e6d4\; color: #000000\;
+  margin-top: 20px\; border-color: #b38f6c\; border-width: 1px\; margin-lef
+ t: 20px\; margin-right: 20px\;">\n<p style="color: #2e1f14\;">Answer the q
+ uestions based on the two readings for this week. This quiz will be timed 
+ (7 minutes)\, and you are not allowed to use any notes\, the lectures\, or
+  the book.</p>\n</div>\n<p>&nbsp\;</p>\n<div class="dp-panels-wrapper dp-a
+ ccordion-default dp-padding-direction-tblr dp-margin-direction-tblr" style
+ ="margin-left: 20px\; margin-right: 20px\; color: #fffbf5\;">\n<div class=
+ "dp-panel-group">\n<h2 class="dp-panel-heading" style="background-color: #
+ d8c3a5\; color: #000000\; border-color: #d8c3a5\;">Image Credits</h2>\n<di
+ v class="dp-panel-content" style="background-color: #fffbf5\; color: #0000
+ 00\;">\n<p>ChatGPT\, response to "anthropology type banner\, 10:1 that cou
+ ld indicate a "quiz" page\," <a href="https://chat.openai.com">OpenAI</a>
+ \, June 3\, 2026.</p>\n</div>\n</div>\n</div>\n<div class="dp-progress-pla
+ ceholder dp-module-progress-completion dp-padding-direction-tblr dp-margin
+ -direction-tblr dp-border-style-solid dp-border-dir-all" style="display: n
+ one\; margin-top: 20px\; background-color: #8a4b2a\; color: #ffffff\; bord
+ er-width: 1px\; margin-left: 20px\; margin-right: 20px\; border-color: #8a
+ 4b2a\;">Module Item Completion (browser only)</div>\n</div><script src="ht
+ tps://instructure-uploads.s3.amazonaws.com/account_74070000000000001/attac
+ hments/8409019/dp_app.js"></script>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pilot Feedback 3 [ANTHR 110-002]
@@ -1227,12 +1287,104 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exam 1 (Proctored) [ANTHR 110-002]
 DTSTART;VALUE=DATE:20260928
-DTSTAMP:20260912T013100Z
+DTSTAMP:20260913T060000Z
 UID:event-assignment-1465146
 SEQUENCE:0
 CLASS:PUBLIC
+DESCRIPTION:****************************\nMid-term Exam 1 (Proctored)\n***
+ *************************\n\n[ChatGPT Image Jun 3\, 2026\, 09_32_45 AM.png
+ ] (https://byu.instructure.com/courses/36994/files/13577519/download?downl
+ oad_frd=1&hidden=1)\n\n \n\nExam #1 will cover the information provided i
+ n the Weeks 1-4 modules of the course.\n\nThis exam is closed book. Theref
+ ore\, during the exam\, you may not access notes\, readings\, videos\, cou
+ rse content\, other students\, or other sources of information. Cheating a
+ nd plagiarism will result in the nullification of your score and appropria
+ te actions taken in accordance with the course syllabus\, university and c
+ ollege policies\, and the BYU Honor Code.\n\nThe exam will consist of mult
+ iple choice\, short answer\, fill in the blank\, and essay style questions
+  for a total of 160 points. You will have 70 minutes (1 hour 10 minutes) t
+ o complete the exam. You must complete the exam in one sitting\, so please
+  do not submit the exam or close the exam window until you have answered a
+ ll of the questions and are satisfied with your responses. You will be una
+ ble to access the exam and/or change your answers once you have clicked su
+ bmit or have closed the exam window. To ensure that there are no issues wh
+ ile taking the online test\, please make sure that you have a stable and r
+ eliable internet connection before starting the exam.\n\n \n\n[Exam Instr
+ uctions] (https://byu.instructure.com/courses/10881/pages/exam-instruction
+ s?module_item_id=2232810)\n\nImage Credits\n-------------\n\nChatGPT\, res
+ ponse to \\"anthropology type banner\, 10:1 that could indicate a "quiz" p
+ age \,\\" OpenAI\, June 3\, 2026\, https://chat.openai.com.\n\nModule Item
+  Completion (browser only)
 URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
  _36994&month=09&year=2026#assignment_1465146
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><link rel="stylesheet" href="https://instructure-uploads.s3.a
+ mazonaws.com/account_74070000000000001/attachments/8073295/canvas-byuonlin
+ e-app.css"><div id="dp-wrapper" class="dp-wrapper dp-flat-sections variati
+ on-2 dp-padding-direction-tblr" style="color: #000000\; background-color: 
+ #fffbf5\;"><header class="dp-header dp-basic-color" style="background-colo
+ r: #8a4b2a\; color: #ffffff\; border-left-width: 0px\; border-right-width:
+  0px\;">\n<h1 class="dp-heading"><span class="dp-header-pre dp-border-styl
+ e-solid dp-border-dir-tblr dp-shadow-b1" style="background-color: #3c0a00
+ \; color: #ffffff\; border-left-color: #3c0a00\; border-width: 0px 0px 0px
+  3px\; font-size: 35px\;"> <span class="dp-header-pre-1 dp-padding-directi
+ on-tblr" style="padding: 17px 7px 0px 0px\; font-size: 28px\;">Mid-term</s
+ pan> </span> <span class="dp-header-title float-clear dp-padding-direction
+ -tblr" style="padding: 20px 15px 20px 10px\; font-size: 35px\;">Exam 1 (Pr
+ octored)</span></h1>\n<p class="dp-border-dir-tblr dp-border-style-solid d
+ p-margin-direction-tblr dp-padding-direction-tblr" style="border-width: 0p
+ x\; margin-top: -12px\; margin-bottom: 6px\; margin-left: 0px\;"><img clas
+ s="dp-full-width" style="height: 106px\;" src="https://byu.instructure.com
+ /courses/36994/files/13577519/download?download_frd=1&amp\;hidden=1" alt="
+ ChatGPT Image Jun 3\, 2026\, 09_32_45 AM.png" width="797" height="211.016"
+  data-api-endpoint="https://byu.instructure.com/api/v1/courses/36994/files
+ /13577519" data-api-returntype="File" data-name="ChatGPT Image Jun 3\, 202
+ 6\, 09_32_45 AM.png" data-size="826 KB" data-available-range="false" data-
+ hidden="false" data-file-id="13112870" data-filename="ChatGPT+Image+Jun+3%
+ 2C+2026%2C+09_32_45+AM.png" data-locked="false" loading="lazy"></p>\n</hea
+ der>\n<p>&nbsp\;</p>\n<div class="dp-content-block dp-margin-direction-tbl
+ r dp-padding-direction-tblr dp-border-style-solid dp-border-dir-all" style
+ ="padding: 0px 15px 10px\; background-color: #f1e6d4\; color: #000000\; ma
+ rgin-top: 20px\; border-color: #b38f6c\; border-width: 1px\; margin-left: 
+ 20px\; margin-right: 20px\;">\n<p style="color: #2e1f14\;">Exam #1 will co
+ ver the information provided in the Weeks 1-4 modules of the course.</p>\n
+ <p style="color: #2e1f14\;">This exam is <strong>closed book</strong>. The
+ refore\, during the exam\, you may not access notes\, readings\, videos\, 
+ course content\, other students\, or other sources of information. Cheatin
+ g and plagiarism will result in the nullification of your score and approp
+ riate actions taken in accordance with the course syllabus\, university an
+ d college policies\, and the BYU Honor Code.</p>\n<p style="color: #2e1f14
+ \;">The exam will consist of multiple choice\, short answer\, fill in the 
+ blank\, and essay style questions for a total of 160 points. You will have
+  70 minutes (1 hour 10 minutes) to complete the exam. You must complete th
+ e exam in one sitting\, so please do not submit the exam or close the exam
+  window until you have answered all of the questions and are satisfied wit
+ h your responses. You will be unable to access the exam and/or change your
+  answers once you have clicked submit or have closed the exam window. To e
+ nsure that there are no issues while taking the online test\, please make 
+ sure that you have a stable and reliable internet connection before starti
+ ng the exam.</p>\n</div>\n<p>&nbsp\;</p>\n<div class="dp-card card">\n<div
+  class="card-body">\n<p class="card-text"><a class="dp-import-page" href="
+ https://byu.instructure.com/courses/10881/pages/exam-instructions?module_i
+ tem_id=2232810" data-api-endpoint="https://byu.instructure.com/api/v1/cour
+ ses/10881/pages/exam-instructions" data-api-returntype="Page">Exam Instruc
+ tions</a></p>\n</div>\n</div>\n<div class="dp-panels-wrapper dp-accordion-
+ default dp-padding-direction-tblr dp-margin-direction-tblr" style="margin-
+ left: 20px\; margin-right: 20px\; color: #fffbf5\;">\n<div class="dp-panel
+ -group">\n<h3 class="dp-panel-heading" style="background-color: #d8c3a5\; 
+ color: #000000\; border-color: #d8c3a5\;">Image Credits</h3>\n<div class="
+ dp-panel-content" style="background-color: #fffbf5\; color: #000000\;">\n<
+ p>ChatGPT\, response to \\"anthropology type banner\, 10:1 that could indi
+ cate a "quiz" page \,\\" OpenAI\, June 3\, 2026\, https://chat.openai.com.
+ </p>\n</div>\n</div>\n</div>\n<div class="dp-progress-placeholder dp-modul
+ e-progress-completion dp-padding-direction-tblr dp-margin-direction-tblr d
+ p-border-style-solid dp-border-dir-all" style="display: none\; margin-top:
+  20px\; background-color: #8a4b2a\; color: #ffffff\; border-width: 1px\; m
+ argin-left: 20px\; margin-right: 20px\; border-color: #8a4b2a\;">Module It
+ em Completion (browser only)</div>\n<div class="dp-embed-wrapper"></div>\n
+ </div><script src="https://instructure-uploads.s3.amazonaws.com/account_74
+ 070000000000001/attachments/8409019/dp_app.js"></script>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pilot Feedback 4 [ANTHR 110-002]
@@ -1242,7 +1394,117 @@ DTSTAMP:20260911T204000Z
 UID:event-assignment-1465144
 SEQUENCE:0
 CLASS:PUBLIC
+DESCRIPTION:************************\nLesson 4 Pilot Feedback\n***********
+ *************\n\n[] (https://byu.instructure.com/courses/36994/files/13577
+ 519/download?download_frd=1&hidden=1)\n\n \n\n---------\n   Survey\n---
+ ------\n\nEach completed pilot survey is worth approximately one extra-cre
+ dit point. If you complete all of the pilot surveys\, your overall course 
+ grade will increase by 2%. This bonus will be applied at the end of the se
+ mester.\n\nThis course has recently been adapted for online instruction\, 
+ and we would love to hear your feedback! Let us know what you like\, what 
+ is confusing\, and what we might change to create a better experience for 
+ students in future semesters. If anything doesn't make sense or is broken
+ \, this is your chance to let us know! You will have the chance to respond
+  to this survey each week so you can give us specific feedback about the m
+ odule you just completed. \n\nFill out the anonymous survey below with yo
+ ur feedback about the course so far. Please be honest and detailed in your
+  feedback. Provide specific examples\, as appropriate. Specificity will he
+ lp us make improvements to the course more than general or vague feedback.
+  \n\nHere is an example of helpful feedback: "In Module 6\, I was confuse
+ d about the instructions on [assignment title]." "I was unsure of what to 
+ do about [assignment details that were confusing]."  \n\nHere is an examp
+ le of less helpful feedback: "The instructions on assignments are confusin
+ g."   \n\nRemember\, ALL surveys and feedback is anonymous\, and will no
+ t affect your standing in this class.\n\n \n\nTip: Once you complete the 
+ survey\, answer the quiz question appropriately to receive the extra credi
+ t points.\n\n \n\n \n\n-------------\nImage Credits\n-------------\n\nMi
+ crogen/stock.adobe.com\, [Anthropology. Anthropologist holding ancient hum
+ an bones recovered from burial site.] (https://stock.adobe.com/images/anth
+ ropology-anthropologist-holding-ancient-human-bones-recovered-from-burial-
+ site/323870412?prev_url=detail) (Adobe Stock Education License). \n\nModu
+ le Item Completion (browser only)\n\n 
 URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
  _36994&month=10&year=2026#assignment_1465144
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><link rel="stylesheet" href="https://instructure-uploads.s3.a
+ mazonaws.com/account_74070000000000001/attachments/8073295/canvas-byuonlin
+ e-app.css"><div id="dp-wrapper" class="dp-wrapper dp-flat-sections variati
+ on-2 dp-padding-direction-tblr" style="color: #000000\; background-color: 
+ #ffffff\;"><header class="dp-header dp-basic-color" style="background-colo
+ r: #8a4b2a\; color: #ffffff\; border-left-width: 0px\; border-right-width:
+  0px\;">\n<h1 class="dp-heading"><span class="dp-header-pre dp-border-styl
+ e-solid dp-border-dir-tblr dp-shadow-b1" style="background-color: #3c0a00
+ \; color: #ffffff\; border-left-color: #3c0a00\; border-width: 0px 0px 0px
+  3px\;"> <span class="dp-header-pre-1 dp-padding-direction-tblr" style="pa
+ dding: 17px 7px 0px 0px\;">Lesson 4</span> </span> <span class="dp-header-
+ title float-clear dp-padding-direction-tblr" style="padding: 20px 15px 20p
+ x 10px\;">Pilot Feedback</span></h1>\n<p class="dp-border-dir-tblr dp-bord
+ er-style-solid dp-margin-direction-tblr dp-padding-direction-tblr" style="
+ border-width: 0px\; margin-top: -12px\; margin-bottom: 6px\; margin-left: 
+ 0px\;"><img class="dp-full-width" style="height: auto\;" role="presentatio
+ n" src="https://byu.instructure.com/courses/36994/files/13577519/download?
+ download_frd=1&amp\;hidden=1" alt="" width="797" height="211.016" data-api
+ -endpoint="https://byu.instructure.com/api/v1/courses/36994/files/13577519
+ " data-api-returntype="File" data-name="ChatGPT Image Jun 3\, 2026\, 09_32
+ _45 AM.png" data-size="826 KB" data-available-range="false" data-hidden="f
+ alse" data-file-id="13112870" data-filename="ChatGPT+Image+Jun+3%2C+2026%2
+ C+09_32_45+AM.png" data-locked="false" loading="lazy"></p>\n</header>\n<p>
+ &nbsp\;</p>\n<div class="dp-content-block dp-margin-direction-tblr dp-padd
+ ing-direction-tblr dp-border-style-solid dp-border-dir-all" style="padding
+ : 0px 15px 15px\; background-color: #fffbf5\; color: #000000\; margin-top:
+  20px\; border-color: #b38f6c\; border-width: 1px\; margin-left: 20px\; ma
+ rgin-right: 20px\;">\n<h2 class="dp-margin-direction-tblr dp-has-icon" sty
+ le="background-color: #f1e6d4\; color: #000000\; padding-top: 10px\; paddi
+ ng-left: 15px\; margin: 0px -15px 20px\; padding-bottom: 10px\; text-align
+ : left\; border-left: 2px #fffbf5\; border-top-style: none\; border-bottom
+ : 2px solid #3c0a00\; border-top-color: #fffbf5\; border-right-color: #fff
+ bf5\; font-size: 22px\;"><i class="dp-icon fas fa-poll-h"><span class="dp-
+ icon-content" style="display: none\;">&nbsp\;</span></i>&nbsp\; Survey</h2
+ >\n<p><strong>Each completed pilot survey is worth approximately one extra
+ -credit point. If you complete all of the pilot surveys\, your overall cou
+ rse grade will increase by 2%. This bonus will be applied at the end of th
+ e semester.</strong></p>\n<p>This course has recently been adapted for onl
+ ine instruction\, and we would love to hear your feedback! Let us know wha
+ t you like\, what is confusing\, and what we might change to create a bett
+ er experience for students in future semesters. If anything doesn't make s
+ ense or is broken\, this is your chance to let us know! You will have the 
+ chance to respond to this survey each week so you can give us specific fee
+ dback about the module you just completed.&nbsp\;</p>\n<p>Fill out the ano
+ nymous survey below with your feedback about the course so far. Please be 
+ honest and detailed in your feedback. Provide specific examples\, as appro
+ priate. Specificity will help us make improvements to the course more than
+  general or vague feedback.&nbsp\;</p>\n<p><em>Here is an example of helpf
+ ul feedback:</em> "In Module 6\, I was confused about the instructions on 
+ [assignment title]." "I was unsure of what to do about [assignment details
+  that were confusing]." &nbsp\;</p>\n<p><em>Here is an example of less hel
+ pful feedback:</em> "The instructions on assignments are confusing." &nbsp
+ \;&nbsp\;</p>\n<p>Remember\, ALL surveys and feedback is anonymous\, and w
+ ill not affect your standing in this class.</p>\n<p>&nbsp\;</p>\n<div clas
+ s="dp-callout dp-callout-placeholder card dp-callout-position-default dp-c
+ allout-type-default dp-callout-color-dp-primary" style="border-color: #000
+ 000 #000000 #000000 #5f7c6c\;">\n<div class="card-body">\n<p>Tip: Once you
+  complete the survey\, answer the quiz question appropriately to receive t
+ he extra credit points.</p>\n</div>\n</div>\n<p>&nbsp\;</p>\n<div class="d
+ p-embed-wrapper dp-margin-direction-tblr" style="text-align: center\;"></d
+ iv>\n</div>\n<p>&nbsp\;</p>\n<div class="dp-panels-wrapper dp-accordion-de
+ fault dp-padding-direction-tblr dp-margin-direction-tblr" style="margin-le
+ ft: 20px\; margin-right: 20px\; color: #fffbf5\;">\n<div class="dp-panel-g
+ roup">\n<h2 class="dp-panel-heading" style="background-color: #d8c3a5\; co
+ lor: #000000\; border-color: #d8c3a5\;">Image Credits</h2>\n<div class="dp
+ -panel-content" style="background-color: #fffbf5\; color: #000000\;">\n<p>
+ Microgen/stock.adobe.com\, <a class="external dp-external-link" href="http
+ s://stock.adobe.com/images/anthropology-anthropologist-holding-ancient-hum
+ an-bones-recovered-from-burial-site/323870412?prev_url=detail" target="_bl
+ ank">Anthropology. Anthropologist holding ancient human bones recovered fr
+ om burial site.</a> (Adobe Stock Education License).&nbsp\;</p>\n</div>\n<
+ /div>\n</div>\n<div class="dp-progress-placeholder dp-module-progress-comp
+ letion dp-padding-direction-tblr dp-margin-direction-tblr dp-border-style-
+ solid dp-border-dir-all" style="display: none\; margin-top: 20px\; backgro
+ und-color: #8a4b2a\; color: #ffffff\; border-width: 1px\; margin-left: 20p
+ x\; margin-right: 20px\; border-color: #8a4b2a\;">Module Item Completion (
+ browser only)</div>\n<p>&nbsp\;</p>\n</div><script src="https://instructur
+ e-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409019/d
+ p_app.js"></script>
 END:VEVENT
 END:VCALENDAR
