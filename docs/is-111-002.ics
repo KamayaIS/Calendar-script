@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Session 1: EYARC: How-To Use the EYARC Experience Platform [IS 111
  -002]
 DTSTART;VALUE=DATE:20260905
-DTSTAMP:20260821T144000Z
+DTSTAMP:20260914T145800Z
 UID:event-assignment-1451775
 SEQUENCE:0
 CLASS:PUBLIC
@@ -26,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Session 1: EYARC: Rewiring Introduction Chapter [IS 111-002]
 DTSTART;VALUE=DATE:20260905
-DTSTAMP:20260903T194200Z
+DTSTAMP:20260914T143500Z
 UID:event-assignment-1451776
 SEQUENCE:0
 CLASS:PUBLIC
@@ -41,27 +41,9 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  nt_74070000000000001/attachments/8409019/dp_app.js"></script>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Session 2: EYARC: Becoming with GenAI [IS 111-002]
-DTSTART;VALUE=DATE:20260912
-DTSTAMP:20260821T144000Z
-UID:event-assignment-1451777
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:This assignment is completed on the EYARC Experience platform.
-  Scores will be imported after the due date.
-URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
- _38450&month=09&year=2026#assignment_1451777
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
- ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
- /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
- orm. Scores will be imported after the due date.</p><script src="https://i
- nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
- 8409019/dp_app.js"></script>
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Session 2: EYARC: Intro to GenAI [IS 111-002]
 DTSTART;VALUE=DATE:20260912
-DTSTAMP:20260821T144000Z
+DTSTAMP:20260914T145900Z
 UID:event-assignment-1451778
 SEQUENCE:0
 CLASS:PUBLIC
@@ -79,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Session 2: EYARC: Rewiring Chapter 1 [IS 111-002]
 DTSTART;VALUE=DATE:20260912
-DTSTAMP:20260821T144000Z
+DTSTAMP:20260914T150100Z
 UID:event-assignment-1451779
 SEQUENCE:0
 CLASS:PUBLIC
@@ -97,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Session 2: EYARC: Rewiring Chapter 2 [IS 111-002]
 DTSTART;VALUE=DATE:20260912
-DTSTAMP:20260912T110500Z
+DTSTAMP:20260914T150300Z
 UID:event-assignment-1451781
 SEQUENCE:0
 CLASS:PUBLIC
@@ -177,24 +159,6 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  8409019/dp_app.js"></script>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Session 3: EYARC: Soft Skills Presentations [IS 111-002]
-DTSTART;VALUE=DATE:20260919
-DTSTAMP:20260821T144000Z
-UID:event-assignment-1451782
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:This assignment is completed on the EYARC Experience platform.
-  Scores will be imported after the due date.
-URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
- _38450&month=09&year=2026#assignment_1451782
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
- ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
- /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
- orm. Scores will be imported after the due date.</p><script src="https://i
- nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
- 8409019/dp_app.js"></script>
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Session 4: EYARC: Prompt Engineering 3 [IS 111-002]
 DTSTART;VALUE=DATE:20260926
 DTSTAMP:20260912T111700Z
@@ -241,24 +205,6 @@ DESCRIPTION:This assignment is completed on the EYARC Experience platform.
   Scores will be imported after the due date.
 URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
  _38450&month=09&year=2026#assignment_1451790
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
- ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
- /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
- orm. Scores will be imported after the due date.</p><script src="https://i
- nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
- 8409019/dp_app.js"></script>
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Session 4: EYARC: Soft Skills Feedback [IS 111-002]
-DTSTART;VALUE=DATE:20260926
-DTSTAMP:20260821T141800Z
-UID:event-assignment-1451785
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:This assignment is completed on the EYARC Experience platform.
-  Scores will be imported after the due date.
-URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
- _38450&month=09&year=2026#assignment_1451785
 X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
  /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
