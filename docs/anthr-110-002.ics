@@ -1166,6 +1166,18 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  hments/8409019/dp_app.js"></script>
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exam #1 Live Review Session [ANTHR 110-002]
+DTSTART:20260922T230000Z
+DTEND:20260923T000000Z
+DTSTAMP:20260916T230000Z
+UID:event-calendar-event-362706
+SEQUENCE:0
+CLASS:PUBLIC
+LOCATION:MARB 207
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36994&month=09&year=2026#calendar_event_362706
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pilot Feedback 3 [ANTHR 110-002]
 DTSTART:20260925T145900Z
 DTEND:20260925T145900Z
