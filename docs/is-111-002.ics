@@ -159,9 +159,10 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  8409019/dp_app.js"></script>
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Session 4: EYARC: Prompt Engineering 3 [IS 111-002]
+SUMMARY:Session 4: EYARC: Is AI Making You Smarter or Just Faster? [IS 111
+ -002]
 DTSTART;VALUE=DATE:20260926
-DTSTAMP:20260912T111700Z
+DTSTAMP:20260921T200900Z
 UID:event-assignment-1451783
 SEQUENCE:0
 CLASS:PUBLIC
