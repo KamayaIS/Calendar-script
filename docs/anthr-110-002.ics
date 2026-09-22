@@ -1524,7 +1524,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quiz: Field Methods   [ANTHR 110-002]
 DTSTART;VALUE=DATE:20261002
-DTSTAMP:20260921T202000Z
+DTSTAMP:20260921T213500Z
 UID:event-assignment-1465133
 SEQUENCE:0
 CLASS:PUBLIC
@@ -1533,7 +1533,7 @@ DESCRIPTION:*****************************\nLesson 5 Quiz: Field Methods\n*
  994/files/13577519/download?download_frd=1&hidden=1)\n\n \n\nThis quiz is
   a simple self-assessment of your participation in the first week's assign
  ments. It will give you a chance to see how these will be administered on 
- Canvas. These quizzes will be timed (6 mins.). \n\n \n\nImage Credits\n-
+ Canvas. These quizzes will be timed (7 mins.). \n\n \n\nImage Credits\n-
  ------------\n\nChatGPT\, response to \\"anthropology type banner\, 10:1 t
  hat could indicate a "quiz" page \,\\" OpenAI\, June 3\, 2026\, https://ch
  at.openai.com.\n\nModule Item Completion (browser only)\n\n 
@@ -1571,7 +1571,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  \; margin-right: 20px\;">\n<p style="color: #2e1f14\;">This quiz is a simp
  le self-assessment of your participation in the first week's assignments. 
  It will give you a chance to see how these will be administered on Canvas.
-  These quizzes will be timed (6 mins.).&nbsp\;</p>\n</div>\n<p>&nbsp\;</p>
+  These quizzes will be timed (7 mins.).&nbsp\;</p>\n</div>\n<p>&nbsp\;</p>
  \n<div class="dp-panels-wrapper dp-accordion-default dp-padding-direction-
  tblr dp-margin-direction-tblr" style="margin-left: 20px\; margin-right: 20
  px\; color: #fffbf5\;">\n<div class="dp-panel-group">\n<h3 class="dp-panel
@@ -1713,7 +1713,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quiz: Ethnoarchaeology and Analogical Methods   [ANTHR 110-002]
 DTSTART;VALUE=DATE:20261009
-DTSTAMP:20260921T202000Z
+DTSTAMP:20260921T213500Z
 UID:event-assignment-1465132
 SEQUENCE:0
 CLASS:PUBLIC
@@ -1723,7 +1723,7 @@ DESCRIPTION:*******************************************************\nLesso
  s/36994/files/13577519/download?download_frd=1&hidden=1)\n\n \n\nThis qui
  z is a simple self-assessment of your participation in the first week's as
  signments. It will give you a chance to see how these will be administered
-  on Canvas. These quizzes will be timed (6 mins.). \n\n \n\nImage Credit
+  on Canvas. These quizzes will be timed (7 mins.). \n\n \n\nImage Credit
  s\n-------------\n\nChatGPT\, response to \\"anthropology type banner\, 10
  :1 that could indicate a "quiz" page \,\\" OpenAI\, June 3\, 2026\, https:
  //chat.openai.com.\n\nModule Item Completion (browser only)\n\n 
@@ -1762,7 +1762,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  in-left: 20px\; margin-right: 20px\;">\n<p style="color: #2e1f14\;">This q
  uiz is a simple self-assessment of your participation in the first week's 
  assignments. It will give you a chance to see how these will be administer
- ed on Canvas. These quizzes will be timed (6 mins.).&nbsp\;</p>\n</div>\n<
+ ed on Canvas. These quizzes will be timed (7 mins.).&nbsp\;</p>\n</div>\n<
  p>&nbsp\;</p>\n<div class="dp-panels-wrapper dp-accordion-default dp-paddi
  ng-direction-tblr dp-margin-direction-tblr" style="margin-left: 20px\; mar
  gin-right: 20px\; color: #fffbf5\;">\n<div class="dp-panel-group">\n<h3 cl
@@ -1784,7 +1784,7 @@ BEGIN:VEVENT
 SUMMARY:Pilot Feedback 6 [ANTHR 110-002]
 DTSTART:20261016T145900Z
 DTEND:20261016T145900Z
-DTSTAMP:20260921T202000Z
+DTSTAMP:20260921T213500Z
 UID:event-assignment-1498804
 SEQUENCE:0
 CLASS:PUBLIC
