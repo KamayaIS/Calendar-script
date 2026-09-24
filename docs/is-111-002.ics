@@ -214,6 +214,43 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  8409019/dp_app.js"></script>
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Session 4: Eight Modes Assignment [IS 111-002]
+DTSTART;VALUE=DATE:20260926
+DTSTAMP:20260924T031600Z
+UID:event-assignment-1504525
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Complete the [Eight Modes Assignment] (https://byu.instructure
+ .com/courses/38450/files/13823068?wrap=1)[Download Eight Modes Assignment]
+  (https://byu.instructure.com/courses/38450/files/13823068/download?downlo
+ ad_frd=1). Make sure to upload your pdf report and your reflection. Do not
+  use AI to write your reflection.\n\nYou should combine your reflection an
+ d the pdf report into one file. If you aren't sure how to combine a pdf\, 
+ use GenAI to learn! :-) You can also have GenAI create the file for you as
+  well. 
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _38450&month=09&year=2026#assignment_1504525
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><p><span>Complete the </span><span class="instructure_file_ho
+ lder link_holder instructure_file_link_holder"><a id="13567029" class="inl
+ ine_disabled preview_in_overlay" title="Link" href="https://byu.instructur
+ e.com/courses/38450/files/13823068?wrap=1" target="_blank" data-canvas-pre
+ viewable="true" data-api-endpoint="https://byu.instructure.com/api/v1/cour
+ ses/38450/files/13823068" data-api-returntype="File">Eight Modes Assignmen
+ t</a><a class="file_download_btn" role="button" href="https://byu.instruct
+ ure.com/courses/38450/files/13823068/download?download_frd=1" data-api-end
+ point="https://byu.instructure.com/api/v1/courses/38450/files/13823068" da
+ ta-api-returntype="File"><span class="screenreader-only">Download Eight Mo
+ des Assignment</span></a></span><span>. Make sure to upload your pdf repor
+ t and your reflection. Do not use AI to write your reflection.</span></p>
+ \n<p><span style="color: #e62429\;">You should combine your reflection and
+  the pdf report into one file. If you aren't sure how to combine a pdf\, u
+ se GenAI to learn! :-) You can also have GenAI create the file for you as 
+ well.&nbsp\;</span></p><script src="https://instructure-uploads.s3.amazona
+ ws.com/account_74070000000000001/attachments/8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Session 5: EYARC: AI Ethics [IS 111-002]
 DTSTART;VALUE=DATE:20261003
 DTSTAMP:20260821T144000Z
