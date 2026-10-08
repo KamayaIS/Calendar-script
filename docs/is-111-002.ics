@@ -307,13 +307,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Session 6: Multimodal PowerPoint [IS 111-002]
 DTSTART;VALUE=DATE:20261010
-DTSTAMP:20260821T141800Z
+DTSTAMP:20261007T211000Z
 UID:event-assignment-1451791
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:Submission: Upload your completed assignment as a file. Your T
  A will grade the submission and provide feedback here.\n\nSee the session 
- page for full instructions and rubric details.
+ page for full instructions and rubric details.\n\nYou should submit the Po
+ werPoint file.
 URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
  _38450&month=10&year=2026#assignment_1451791
 X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
@@ -321,8 +322,9 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  /dp_app.css"><p><strong>Submission:</strong> Upload your completed assignm
  ent as a file. Your TA will grade the submission and provide feedback here
  .</p>\n<p>See the session page for full instructions and rubric details.</
- p><script src="https://instructure-uploads.s3.amazonaws.com/account_740700
- 00000000001/attachments/8409019/dp_app.js"></script>
+ p>\n<p><span style="color: #e62429\;">You should submit the PowerPoint fil
+ e.</span></p><script src="https://instructure-uploads.s3.amazonaws.com/acc
+ ount_74070000000000001/attachments/8409019/dp_app.js"></script>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Session 7: EYARC: Advanced GenAI [IS 111-002]
@@ -485,7 +487,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Session 9: Vibe Coding a Game [IS 111-002]
 DTSTART;VALUE=DATE:20261031
-DTSTAMP:20260821T145900Z
+DTSTAMP:20261007T193500Z
 UID:event-assignment-1451796
 SEQUENCE:0
 CLASS:PUBLIC
@@ -505,7 +507,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Session 10: Creating a MindStudio Agent [IS 111-002]
 DTSTART;VALUE=DATE:20261107
-DTSTAMP:20260821T141800Z
+DTSTAMP:20261007T211100Z
 UID:event-assignment-1451769
 SEQUENCE:0
 CLASS:PUBLIC
