@@ -1232,12 +1232,69 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Midcourse Exam (F) (Proctored) [REL C 333-033]
 DTSTART;VALUE=DATE:20261020
-DTSTAMP:20260826T184200Z
+DTSTAMP:20261017T060000Z
 UID:event-assignment-1441047
 SEQUENCE:0
 CLASS:PUBLIC
+DESCRIPTION:[] (https://byu.instructure.com/courses/35044/files/13505106/p
+ review?hidden=1)\n\n \n\nThis exam will be worth 90 points and will be a 
+ mixture of multiple-choice\, matching\, fill-in-the-blank\, and a few shor
+ t-essay questions. The exam is open book (course material) and open notes
+ \, and you will have a three-hour time limit. \n\nBefore you begin workin
+ g on this exam\, please read this information:\n\n* The exam is open book
+  and open notes—you may refer back to the lesson material to find answ
+ ers. You will need to open content in other tabs so you do not disrupt you
+ r open exam.\n\n* Academic Honesty: It is fine to access notes\, textbook
+  materials\, and links or information available throughout the course cont
+ ent. Once the exam has begun\, it is not permissible to communicate with
+  others about the exam or employ search engines (Google\, etc.) or other w
+ ebsites (including any AI\, like ChatGPT) that are not part of your lesson
+  material. Please do not copy and paste\, screen capture\, or share quiz 
+ content in any way. Any of these actions would constitute cheating and mak
+ e you subject to the university’s academic honesty policies.\n\n* There 
+ is a three-hour time limit once you begin the exam\, so it benefits you t
+ o already be familiar with the lesson material before you begin.\n\n \n\n
+ [Exam Instructions] (https://byu.instructure.com/courses/10881/pages/exam-
+ instructions?module_item_id=2232810)
 URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
  _35044&month=10&year=2026#assignment_1441047
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><link rel="stylesheet" href="https://instructure-uploads.s3.a
+ mazonaws.com/account_74070000000000001/attachments/8073295/canvas-byuonlin
+ e-app.css"><div><img src="https://byu.instructure.com/courses/35044/files/
+ 13505106/preview?hidden=1" alt="" width="2389" height="554" data-decorativ
+ e="true" data-api-endpoint="https://byu.instructure.com/api/v1/courses/350
+ 44/files/13505106" data-api-returntype="File" loading="lazy"></div>\n<div>
+ &nbsp\;</div>\n<div>\n<p>This exam will be worth 90 points and will be a m
+ ixture of multiple-choice\, matching\, fill-in-the-blank\, and a few short
+ -essay questions. The exam is open book (course material) and open notes\,
+  and you will have a three-hour time limit.&nbsp\;</p>\n<p>Before you begi
+ n working on this exam\, please read this information:</p>\n<ol>\n<li>The 
+ exam is<span>&nbsp\;</span><strong>open book</strong>&nbsp\;and&nbsp\;<str
+ ong>open notes</strong>—you may refer back to the lesson material to fin
+ d answers. You will need to open content in other tabs so you do not disru
+ pt your open exam.</li>\n<li><strong>Academic Honesty:&nbsp\;</strong>It i
+ s fine to access notes\, textbook materials\, and links or information ava
+ ilable throughout the course content. Once the exam has begun\, it&nbsp\;<
+ em>is not permissible</em>&nbsp\;to communicate with others about the exam
+  or employ search engines (Google\, etc.) or other websites (including any
+  AI\, like ChatGPT) that are not part of your lesson material. Please&nbsp
+ \;<em>do not</em> copy and paste\, screen capture\, or share quiz content 
+ in any way. Any of these actions would constitute cheating and make you su
+ bject to the university’s academic honesty policies.</li>\n<li>There is 
+ a <strong>three-hour time limit</strong>&nbsp\;once you begin the exam\, s
+ o it benefits you to already be familiar with the lesson material before y
+ ou begin.</li>\n</ol>\n<p>&nbsp\;</p>\n</div>\n<div id="kl_custom_block_0"
+  class="">\n<div id="dp-wrapper" class="dp-wrapper dp-flat-sections variat
+ ion-2">\n<p><a class="dp-import-page" href="https://byu.instructure.com/co
+ urses/10881/pages/exam-instructions?module_item_id=2232810" data-api-endpo
+ int="https://byu.instructure.com/api/v1/courses/10881/pages/exam-instructi
+ ons" data-api-returntype="Page">Exam Instructions</a></p>\n</div>\n</div>
+ \n<p><iframe id="hlinstructframe" style="width: 800px\; height: 600px\;" s
+ rc="https://app.honorlock.com/install/extension" loading="lazy"></iframe><
+ /p><script src="https://instructure-uploads.s3.amazonaws.com/account_74070
+ 000000000001/attachments/8409019/dp_app.js"></script>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LATE WORK DEADLINE Units 1-7 [REL C 333-033]
@@ -1256,22 +1313,161 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Proclamations Analysis [REL C 333-033]
 DTSTART;VALUE=DATE:20261024
-DTSTAMP:20260826T184300Z
+DTSTAMP:20261017T060000Z
 UID:event-assignment-1441142
 SEQUENCE:0
 CLASS:PUBLIC
+DESCRIPTION:[] (https://byu.instructure.com/courses/35044/files/13505106/p
+ review?hidden=1)\n\nEstimated time: 45 minutes\n\nThis is an opportunity t
+ o share what you learned from your study of the proclamations and the rela
+ ted talks. \n\nYou will receive points for addressing the assigned topics
+  below in five very short paragraphs. Each should be 3–4 sentences but s
+ hould show thought and preparation\, demonstrating an understanding of the
+  information asked for. Do not quote from the sources\; summarize the conc
+ epts in your own words.\n\nYou may be tempted to write a longer paper\, bu
+ t I want you to keep it right around one page\; just focus on the main poi
+ nts and write clear summaries of those principles. Consider each question/
+ paragraph to be a short-answer question.\n\nParagraph 1: What did you see 
+ in the proclamations studied in this lesson that showed evidence of the au
+ thors’ roles as prophets\, seers\, and revelators? (Share 2–3 examples
+ .)\n\nParagraph 2: When you did your organizational analysis of the family
+  proclamation\, what overarching categories did you choose to focus on\, a
+ nd what were some of the subcategories you identified for each one?\n\nPar
+ agraph 3: Summarize the meaning/message of The Living Christ in one senten
+ ce. Then comment on what stood out to you and/or what you learned about Je
+ sus Christ.\n\nParagraph 4: How does the content in the Restoration Procla
+ mation support the claim in its first sentence? What principles in the pro
+ clamation most inspired gratitude as you studied it?\n\nParagraph 5: Share
+  some of your own thoughts and feelings as you studied these proclamations
+  and the lesson content. What did you feel was your personal call to actio
+ n?\n\nOptional Question: These proclamations focus on doctrines that are f
+ undamental to the Church of Jesus Christ of Latter-day Saints. Do you have
+  any questions you’d like to ask me (your instructor)\, or is there anyt
+ hing you’d like to discuss further?\n\nRequirements for this essay inclu
+ de the following:\n\n* title (“Proclamations Analysis”) and your name 
+ at the top\n\n* one page (up to one and a half pages)\n\n* 12-point Times 
+ New Roman font\n\n* double spaced\n\n* one-inch margins\n\n* .doc\, .docx
+ \, or .pdf format\n\nSubmission Instructions\n\nWhen you are ready to uplo
+ ad and submit this assignment:\n\n* Click Submit Assignment in the top-r
+ ight corner.\n\n* Attach the relevant assignment by clicking the Choose 
+ File button\, then locating the file you wish to submit.\n\n* When you ar
+ e finished\, click Submit Assignment.\n\n* You should receive a message i
+ n the top-right corner telling you that your assignment was submitted.\n\n
+ Rubric: You will earn up to 2 points for fulfilling content and requiremen
+ ts of each paragraph.\n\nModule Item Completion (built in browser\, hidden
+  in app)
 URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
  _35044&month=10&year=2026#assignment_1441142
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><link rel="stylesheet" href="https://instructure-uploads.s3.a
+ mazonaws.com/account_74070000000000001/attachments/8073295/canvas-byuonlin
+ e-app.css"><p><img src="https://byu.instructure.com/courses/35044/files/13
+ 505106/preview?hidden=1" alt="" width="2389" height="554" data-decorative=
+ "true" data-api-endpoint="https://byu.instructure.com/api/v1/courses/35044
+ /files/13505106" data-api-returntype="File" loading="lazy"></p>\n<p><em><s
+ pan style="font-size: 10pt\;">Estimated time: 45 minutes</span></em></p>\n
+ <p>This is an opportunity to share what you learned from your study of the
+  proclamations and the related talks.&nbsp\;</p>\n<p>You will receive poin
+ ts for addressing the assigned topics below in five <strong>very short</st
+ rong> paragraphs. Each should be 3–4 sentences but should show thought a
+ nd preparation\, demonstrating an understanding of the information asked f
+ or. Do not quote from the sources\; summarize the concepts in your own wor
+ ds.</p>\n<p><em>You may be tempted to write a longer paper\, but I want yo
+ u to keep it right around one page\; just focus on the main points and wri
+ te clear summaries of those principles. Consider each question/paragraph t
+ o be a short-answer question.</em></p>\n<p><strong>Paragraph 1:</strong> W
+ hat did you see in the proclamations studied in this lesson that showed ev
+ idence of the authors’ roles as prophets\, seers\, and revelators? (Shar
+ e 2–3 examples.)</p>\n<p><strong>Paragraph 2:</strong> When you did your
+  organizational analysis of the family proclamation\, what overarching cat
+ egories did you choose to focus on\, and what were some of the subcategori
+ es you identified for each one?</p>\n<p><strong>Paragraph 3:</strong><span
+ > Summarize the meaning/message of <em>The Living Christ</em> in one sente
+ nce. Then comment on what stood out to you and/or what you learned about J
+ esus Christ.</span></p>\n<p><strong>Paragraph 4:</strong> How does the con
+ tent in the Restoration Proclamation support the claim in its first senten
+ ce? What principles in the proclamation most inspired gratitude as you stu
+ died it?</p>\n<p><strong>Paragraph 5:</strong> Share some of your own thou
+ ghts and feelings as you studied these proclamations and the lesson conten
+ t. What did you feel was your personal call to action?</p>\n<p><em><strong
+ >Optional Question</strong>:</em> <span>These proclamations focus on doctr
+ ines that are fundamental to the Church of Jesus Christ of Latter-day Sain
+ ts. Do you have any questions you’d like to ask me (your instructor)\, o
+ r is there anything you’d like to discuss further?</span></p>\n<p>Requir
+ ements for this essay include the following:</p>\n<ul>\n<li>title (“Proc
+ lamations Analysis”) and your name at the top</li>\n<li>one page (up to 
+ one and a half pages)</li>\n<li>12-point Times New Roman font</li>\n<li>do
+ uble spaced</li>\n<li>one-inch margins</li>\n<li>.doc\, .docx\, or .pdf fo
+ rmat</li>\n</ul>\n<p><strong>Submission Instructions</strong></p>\n<p>When
+  you are ready to upload and submit this assignment:</p>\n<ol>\n<li>Click&
+ nbsp\;<strong>Submit Assignment&nbsp\;</strong>in the top-right corner.</l
+ i>\n<li>Attach&nbsp\;the relevant assignment by clicking the&nbsp\;<strong
+ >Choose File</strong>&nbsp\;button\, then locating the file you wish to su
+ bmit.</li>\n<li>When you are finished\, click&nbsp\;<strong>Submit Assignm
+ ent</strong>.</li>\n<li>You should receive a message in the top-right corn
+ er telling you that your assignment was submitted.</li>\n</ol>\n<p><strong
+ >Rubric:</strong> You will earn up to 2 points for fulfilling content and 
+ requirements of each paragraph.</p>\n<p class="kl_module_progress_completi
+ on" style="display: none\;">Module Item Completion (built in browser\, hid
+ den in app)</p><script src="https://instructure-uploads.s3.amazonaws.com/a
+ ccount_74070000000000001/attachments/8409019/dp_app.js"></script>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Unit Quiz: Role of Apostles [REL C 333-033]
 DTSTART;VALUE=DATE:20261024
-DTSTAMP:20260826T184200Z
+DTSTAMP:20261017T060000Z
 UID:event-assignment-1441067
 SEQUENCE:0
 CLASS:PUBLIC
+DESCRIPTION:[] (https://byu.instructure.com/courses/35044/files/13505106/p
+ review?hidden=1)\n\nEstimated time: 10 minutes\n\nThis quiz will cover the
+  lessons “The Quorum of the Twelve Apostles” and “Proclamations and 
+ Declarations.”\n\nBefore you begin working on this quiz\, please read th
+ is information:\n\n* The quiz is open book and open notes—you may ref
+ er back to the lesson material to find answers. You will need to open cont
+ ent in other tabs so you do not disrupt your open quiz.\n\n* Academic Hone
+ sty: It is fine to access notes\, textbook materials\, and links or inform
+ ation available throughout the course content. Once the quiz has begun\, i
+ t is not permissible to communicate with others about the quiz or employ s
+ earch engines (Google\, etc.) or other websites that are not part of your 
+ lesson material. Please do not copy and paste\, screen capture\, or share 
+ quiz content in any way. Any of these actions would constitute cheating an
+ d make you subject to the university’s academic honesty policies.\n\n* T
+ here is a thirty-minute time limit once you begin the quiz\, so it benefit
+ s you to already be familiar with the lesson material before you begin.\n
+ \nModule Item Completion (built in browser\, hidden in app)
 URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
  _35044&month=10&year=2026#assignment_1441067
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><link rel="stylesheet" href="https://instructure-uploads.s3.a
+ mazonaws.com/account_74070000000000001/attachments/8073295/canvas-byuonlin
+ e-app.css"><p><img src="https://byu.instructure.com/courses/35044/files/13
+ 505106/preview?hidden=1" alt="" data-decorative="true" loading="lazy" data
+ -api-endpoint="https://byu.instructure.com/api/v1/courses/35044/files/1350
+ 5106" data-api-returntype="File"></p>\n<p><em><span style="font-size: 10pt
+ \;">Estimated time: 10 minutes</span></em></p>\n<p>This quiz will cover th
+ e lessons “The Quorum of the Twelve Apostles” and “Proclamations and
+  Declarations.”</p>\n<p>Before you begin working on this quiz\, please r
+ ead this information:</p>\n<ol>\n<li>The quiz is&nbsp\;<strong>open book</
+ strong>&nbsp\;and&nbsp\;<strong>open notes</strong>—you may refer back t
+ o the lesson material to find answers. You will need to open content in ot
+ her tabs so you do not disrupt your open quiz.</li>\n<li><strong>Academic 
+ Honesty: </strong>It is fine to access notes\, textbook materials\, and li
+ nks or information available throughout the course content. Once the quiz 
+ has begun\, it <strong><em>is not permissible</em></strong> to communicate
+  with others about the quiz or employ search engines (Google\, etc.) or ot
+ her websites that are not part of your lesson material. Please <strong><em
+ >do not</em></strong> copy and paste\, screen capture\, or share quiz cont
+ ent in any way. Any of these actions would constitute cheating and make yo
+ u subject to the university’s academic honesty policies.</li>\n<li>There
+  is a <strong>thirty-minute time limit</strong> once you begin the quiz\, 
+ so it benefits you to already be familiar with the lesson material before 
+ you begin.</li>\n</ol>\n<p class="kl_module_progress_completion" style="di
+ splay: none\;">Module Item Completion (built in browser\, hidden in app)</
+ p><script src="https://instructure-uploads.s3.amazonaws.com/account_740700
+ 00000000001/attachments/8409019/dp_app.js"></script>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Uchtdorf and Bednar Questions Assignment [REL C 333-033]
