@@ -372,7 +372,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quiz: Field Methods   [ANTHR 110-002]
 DTSTART;VALUE=DATE:20261002
-DTSTAMP:20261006T210200Z
+DTSTAMP:20261021T231500Z
 UID:event-assignment-1465133
 SEQUENCE:0
 CLASS:PUBLIC
@@ -562,9 +562,137 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  0000001/attachments/8409019/dp_app.js"></script>
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Assignment: Choose-Your-Own Archeological Adventure 2 [ANTHR 110-0
+ 02]
+DTSTART:20261009T230000Z
+DTEND:20261009T230000Z
+DTSTAMP:20261021T231600Z
+UID:event-assignment-1483534
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:**************************************************\nLesson 6 C
+ hoose-Your-Own Archaeological Adventure\n\n*******************************
+ *******************\n\n[] (https://byu.instructure.com/courses/36994/files
+ /13577542/download?download_frd=1&hidden=1)\n\n \n\nRemember you last adv
+ enture? Just like last time\, you will choose a learning adventure that he
+ lps you explore archeology. Take this as an opportunity to be a proactive 
+ learner and select an adventure that interests you most.\n\n--------------
+ -\n   Instructions\n---------------\n\nThroughout the semester you will 
+ have 3 opportunities (2 required\, 1 for extra credit) to engage more with
+  archaeology and the past by participating in a few activities meant to en
+ hance the learning experience. Choose an adventure—different from your l
+ ast adventure—to embark on from the [CHOOSE YOUR OWN ADVENTURE.] (https:
+ //byu.instructure.com/courses/36994/files/13761596?download_frd=1)\n\nTip:
+  Each adventure is meant to take a couple of hours to complete. Be sure to
+  pan an adequate amount of time to complete this assignment. \n\n--------
+ ----\n  Submission\n------------\n\nAfter completing your adventure\, re
+ turn to the [CHOOSE YOUR OWN ADVENTURE] (https://byu.instructure.com/cours
+ es/36994/files/13761596?download_frd=1) assignment and reread your select
+ ed adventure description for the specific submission requirements.\n\nSubm
+ it your completed work in one of the following formats:\n\n* .doc\n\n* .do
+ cx\n\nBe sure to follow all directions outlined in your adventure descript
+ ion before submitting.\n\n \n\nImage Credits\n-------------\n\nMike Searc
+ y\, Eagle's Watch 2\, Mike Searcy\, Used with Permission.\n\nModule Item C
+ ompletion (browser only)\n\n 
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36994&month=10&year=2026#assignment_1483534
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
+ ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
+ /dp_app.css"><link rel="stylesheet" href="https://instructure-uploads.s3.a
+ mazonaws.com/account_74070000000000001/attachments/14123348/canvas-byu-byu
+ online-mobile.css"><div id="dp-wrapper" class="dp-wrapper dp-badge" style=
+ "color: #000000\; border-radius: 0px\; background-color: #ffffff\; padding
+ -bottom: 15px\;"><header class="dp-header dp-basic-color" style="backgroun
+ d-color: #8a4b2a\; color: #ffffff\; border-radius: 5px\; border-left-width
+ : 0px\; border-right-width: 0px\;">\n<h1 class="dp-heading"><span class="d
+ p-header-pre dp-border-style-solid dp-border-dir-tblr dp-shadow-b1" style=
+ "background-color: #3c0a00\; color: #ffffff\; border-left-color: #3c0a00\;
+  border-width: 0px 0px 0px 3px\; border-radius: 5px\;"> <span class="dp-he
+ ader-pre-1 dp-padding-direction-tblr" style="padding: 17px 7px 0px 0px\; b
+ order-radius: 10px\;">Lesson 6</span> </span> <span class="dp-header-title
+  float-clear dp-padding-direction-tblr" style="padding: 20px 15px 20px 10p
+ x\; border-radius: 5px\;">Choose-Your-Own Archaeological Adventure<br></sp
+ an></h1>\n<p class="dp-border-dir-tblr dp-border-style-solid dp-margin-dir
+ ection-tblr dp-padding-direction-tblr" style="border-width: 0px\; margin-t
+ op: -12px\; margin-bottom: 6px\; margin-left: 0px\;"><img class="mx-auto d
+ -block" style="height: auto\; width: 1100px\;" role="presentation" src="ht
+ tps://byu.instructure.com/courses/36994/files/13577542/download?download_f
+ rd=1&amp\;hidden=1" alt="" width="1100" height="183.156" data-api-endpoint
+ ="https://byu.instructure.com/api/v1/courses/36994/files/13577542" data-ap
+ i-returntype="File" loading="lazy"></p>\n</header>\n<p>&nbsp\;</p>\n<div c
+ lass="dp-content-block dp-margin-direction-tblr dp-padding-direction-tblr 
+ dp-border-style-solid dp-border-dir-all" style="padding: 0px 15px 10px\; b
+ ackground-color: #fffbf5\; color: #000000\; margin-top: 25px\; border-colo
+ r: #b38f6c\; border-width: 1px\; border-radius: 0px\; margin-left: 20px\; 
+ margin-right: 20px\;">\n<p class="lead">Remember you last adventure? Just 
+ like last time\, you will choose a learning adventure that helps you explo
+ re archeology. Take this as an opportunity to be a proactive learner and s
+ elect an adventure that interests you most.</p>\n</div>\n<div class="dp-co
+ ntent-block dp-margin-direction-tblr dp-padding-direction-tblr dp-border-s
+ tyle-solid dp-border-dir-all" style="padding: 0px 15px 10px\; background-c
+ olor: #fffbf5\; color: #000000\; margin-top: 25px\; border-color: #b38f6c
+ \; border-width: 1px\; border-radius: 0px\; margin-left: 20px\; margin-rig
+ ht: 20px\;">\n<h2 class="dp-margin-direction-tblr dp-has-icon" style="back
+ ground-color: #f1e6d4\; color: #000000\; padding-top: 10px\; padding-left:
+  15px\; margin: 0px -15px 20px\; padding-bottom: 10px\; text-align: left\;
+  border-left: 5px #3c0a00\; border-top-style: none\; border-bottom: 2px so
+ lid #3c0a00\; border-top-color: #3c0a00\; border-right-color: #3c0a00\; fo
+ nt-size: 22px\;"><i class="fas fa-tasks"><span class="dp-icon-content" sty
+ le="display: none\;">&nbsp\;</span></i>&nbsp\; Instructions</h2>\nThrougho
+ ut the semester you will have 3 opportunities (2 required\, 1 for extra cr
+ edit) to engage more with archaeology and the past by participating in a f
+ ew activities meant to enhance the learning experience. Choose an adventur
+ e—different from your last adventure—to embark on from the <a class="d
+ p-course-link instructure_file_link instructure_scribd_file inline_disable
+ d" title="CHOOSE YOUR OWN ADVENTURE.docx" href="https://byu.instructure.co
+ m/courses/36994/files/13761596?download_frd=1" data-api-endpoint="https://
+ byu.instructure.com/api/v1/courses/36994/files/13761596" data-api-returnty
+ pe="File">CHOOSE YOUR OWN ADVENTURE.</a>\n<div class="dp-callout dp-callou
+ t-placeholder card dp-callout-position-default dp-callout-type-default dp-
+ callout-color-dp-primary" style="border-color: #000000 #000000 #000000 #5f
+ 7c6c\;">\n<div class="card-body">\n<p>Tip: Each adventure is meant to take
+  a couple of hours to complete. Be sure to pan an adequate amount of time 
+ to complete this assignment.&nbsp\;</p>\n</div>\n</div>\n</div>\n<div clas
+ s="dp-content-block dp-margin-direction-tblr dp-padding-direction-tblr dp-
+ border-style-solid dp-border-dir-all" style="padding: 0px 15px 10px\; back
+ ground-color: #fffbf5\; color: #000000\; margin-top: 25px\; border-color: 
+ #b38f6c\; border-width: 1px\; border-radius: 0px\; margin-left: 20px\; mar
+ gin-right: 20px\;">\n<h2 class="dp-has-icon" style="background-color: #f1e
+ 6d4\; color: #000000\; padding-top: 10px\; padding-left: 15px\; margin: 0p
+ x -15px 20px\; padding-bottom: 10px\; text-align: left\; border-left: 5px 
+ #3c0a00\; border-top-style: none\; border-bottom: 2px solid #3c0a00\; bord
+ er-top-color: #3c0a00\; border-right-color: #3c0a00\; font-size: 22px\;"><
+ i class="dp-icon fas fa-pen-fancy" aria-hidden="true"><span class="dp-icon
+ -content" style="display: none\;">&nbsp\;</span></i>&nbsp\;Submission</h2>
+ \n<p>After completing your adventure\, return to the <a class="dp-course-l
+ ink instructure_file_link instructure_scribd_file inline_disabled" title="
+ CHOOSE YOUR OWN ADVENTURE" href="https://byu.instructure.com/courses/36994
+ /files/13761596?download_frd=1" data-api-endpoint="https://byu.instructure
+ .com/api/v1/courses/36994/files/13761596" data-api-returntype="File">CHOOS
+ E YOUR OWN ADVENTURE</a>&nbsp\;assignment and reread your selected adventu
+ re description for the specific submission requirements.</p>\n<p>Submit yo
+ ur completed work in one of the following formats:</p>\n<ul>\n<li>.doc</li
+ >\n<li>.docx</li>\n</ul>\n<p>Be sure to follow all directions outlined in 
+ your adventure description before submitting.</p>\n</div>\n<p>&nbsp\;</p>
+ \n<div class="dp-panels-wrapper dp-accordion-default dp-padding-direction-
+ tblr dp-margin-direction-tblr" style="margin-left: 20px\; margin-right: 20
+ px\; color: #fffbf5\;">\n<div class="dp-panel-group">\n<h3 class="dp-panel
+ -heading" style="background-color: #d8c3a5\; color: #000000\; border-color
+ : #d8c3a5\;">Image Credits</h3>\n<div class="dp-panel-content" style="back
+ ground-color: #fffbf5\; color: #000000\;">\n<p>Mike Searcy\, Eagle's Watch
+  2\, Mike Searcy\, Used with Permission.</p>\n</div>\n</div>\n</div>\n<div
+  class="dp-progress-placeholder dp-module-progress-completion dp-padding-d
+ irection-tblr dp-margin-direction-tblr dp-border-style-solid dp-border-dir
+ -all" style="display: none\; margin: 20px\; background-color: #8a4b2a\; co
+ lor: #ffffff\; border-radius: 0px\; border-width: 1px\; border-color: #5f7
+ c6c\;">Module Item Completion (browser only)</div>\n<p>&nbsp\;</p>\n</div>
+ <script src="https://instructure-uploads.s3.amazonaws.com/account_74070000
+ 000000001/attachments/8409019/dp_app.js"></script>
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Quiz: Ethnoarchaeology and Analogical Methods   [ANTHR 110-002]
 DTSTART;VALUE=DATE:20261009
-DTSTAMP:20261006T210200Z
+DTSTAMP:20261021T231500Z
 UID:event-assignment-1465132
 SEQUENCE:0
 CLASS:PUBLIC
@@ -953,7 +1081,7 @@ BEGIN:VEVENT
 SUMMARY:Abstract: Marean Article [ANTHR 110-002]
 DTSTART:20261016T230000Z
 DTEND:20261016T230000Z
-DTSTAMP:20261020T164500Z
+DTSTAMP:20261021T231600Z
 UID:event-assignment-1465163
 SEQUENCE:0
 CLASS:PUBLIC
@@ -1062,7 +1190,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quiz: Chronological Methods [ANTHR 110-002]
 DTSTART;VALUE=DATE:20261016
-DTSTAMP:20261009T175000Z
+DTSTAMP:20261021T231500Z
 UID:event-assignment-1465138
 SEQUENCE:0
 CLASS:PUBLIC
@@ -1450,7 +1578,7 @@ BEGIN:VEVENT
 SUMMARY:Writing: Maya Social Organization [ANTHR 110-002]
 DTSTART:20261023T230000Z
 DTEND:20261023T230000Z
-DTSTAMP:20261021T151000Z
+DTSTAMP:20261021T231600Z
 UID:event-assignment-1465160
 SEQUENCE:0
 CLASS:PUBLIC
@@ -1596,7 +1724,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Quiz: Social Analysis [ANTHR 110-002]
 DTSTART;VALUE=DATE:20261023
-DTSTAMP:20261021T150900Z
+DTSTAMP:20261021T231500Z
 UID:event-assignment-1498811
 SEQUENCE:0
 CLASS:PUBLIC
