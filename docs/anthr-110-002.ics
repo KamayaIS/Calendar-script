@@ -1884,4 +1884,46 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  cript src="https://instructure-uploads.s3.amazonaws.com/account_7407000000
  0000001/attachments/8409019/dp_app.js"></script>
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pilot Feedback 9 [ANTHR 110-002]
+DTSTART:20261106T145900Z
+DTEND:20261106T145900Z
+DTSTAMP:20261026T151600Z
+UID:event-assignment-1498807
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36994&month=11&year=2026#assignment_1498807
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz: Bioarchaeology [ANTHR 110-002]
+DTSTART;VALUE=DATE:20261106
+DTSTAMP:20261026T153100Z
+UID:event-assignment-1498805
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36994&month=11&year=2026#assignment_1498805
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Writing: BBC — Neanderthal [ANTHR 110-002]
+DTSTART;VALUE=DATE:20261106
+DTSTAMP:20261026T153100Z
+UID:event-assignment-1498814
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36994&month=11&year=2026#assignment_1498814
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pilot Feedback 10 [ANTHR 110-002]
+DTSTART:20261113T145900Z
+DTEND:20261113T145900Z
+DTSTAMP:20261026T153100Z
+UID:event-assignment-1498801
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
+ _36994&month=11&year=2026#assignment_1498801
+END:VEVENT
 END:VCALENDAR
