@@ -430,7 +430,7 @@ SUMMARY:Assignment: Choose-Your-Own Archeological Adventure 2 [ANTHR 110-0
  02]
 DTSTART:20261009T230000Z
 DTEND:20261009T230000Z
-DTSTAMP:20261026T171600Z
+DTSTAMP:20261027T234100Z
 UID:event-assignment-1483534
 SEQUENCE:0
 CLASS:PUBLIC
@@ -1886,9 +1886,8 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exam 2 (Proctored) [ANTHR 110-002]
-DTSTART:20261030T230000Z
-DTEND:20261030T230000Z
-DTSTAMP:20261026T172300Z
+DTSTART;VALUE=DATE:20261102
+DTSTAMP:20261027T233700Z
 UID:event-assignment-1465142
 SEQUENCE:0
 CLASS:PUBLIC
@@ -1917,7 +1916,7 @@ DESCRIPTION:****************************\nMid-term Exam 2 (Proctored)\n***
  age \,\\" OpenAI\, June 3\, 2026\, https://chat.openai.com.\n\nModule Item
   Completion (browser only)
 URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
- _36994&month=10&year=2026#assignment_1465142
+ _36994&month=11&year=2026#assignment_1465142
 X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
  ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
  /dp_app.css"><link rel="stylesheet" href="https://instructure-uploads.s3.a
