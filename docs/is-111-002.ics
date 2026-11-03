@@ -5,60 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Kevin Alejandro Amaya Calendar (Canvas) — IS 111-002
 BEGIN:VEVENT
-SUMMARY:Session 5: EYARC: AI Ethics [IS 111-002]
-DTSTART;VALUE=DATE:20261003
-DTSTAMP:20261005T140800Z
-UID:event-assignment-1451787
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:This assignment is completed on the EYARC Experience platform.
-  Scores will be imported after the due date.
-URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
- _38450&month=10&year=2026#assignment_1451787
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
- ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
- /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
- orm. Scores will be imported after the due date.</p><script src="https://i
- nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
- 8409019/dp_app.js"></script>
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Session 5: EYARC: Rewiring Chapter 6 [IS 111-002]
-DTSTART;VALUE=DATE:20261003
-DTSTAMP:20261005T141200Z
-UID:event-assignment-1451793
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:This assignment is completed on the EYARC Experience platform.
-  Scores will be imported after the due date.
-URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
- _38450&month=10&year=2026#assignment_1451793
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
- ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
- /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
- orm. Scores will be imported after the due date.</p><script src="https://i
- nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
- 8409019/dp_app.js"></script>
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Session 5: EYARC: Verifactum [IS 111-002]
-DTSTART;VALUE=DATE:20261003
-DTSTAMP:20261005T141000Z
-UID:event-assignment-1451788
-SEQUENCE:0
-CLASS:PUBLIC
-DESCRIPTION:This assignment is completed on the EYARC Experience platform.
-  Scores will be imported after the due date.
-URL;VALUE=URI:https://byu.instructure.com/calendar?include_contexts=course
- _38450&month=10&year=2026#assignment_1451788
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instruct
- ure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/8409020
- /dp_app.css"><p>This assignment is completed on the EYARC Experience platf
- orm. Scores will be imported after the due date.</p><script src="https://i
- nstructure-uploads.s3.amazonaws.com/account_74070000000000001/attachments/
- 8409019/dp_app.js"></script>
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Session 6: EYARC: Rewiring Chapter 7 [IS 111-002]
 DTSTART;VALUE=DATE:20261010
 DTSTAMP:20261012T141900Z
