@@ -1,0 +1,46 @@
+name: Update split Canvas feeds
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # every 3 hours
+  workflow_dispatch: {}      # manual runs, and MindStudio triggers this
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feeds
+  cancel-in-progress: false
+
+jobs:
+  split-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install icalendar
+
+      - name: Split feeds by class
+        env:
+          FEED_URLS: ${{ secrets.FEED_URLS }}
+          CANVAS_ICS_URL: ${{ secrets.CANVAS_ICS_URL }}   # old single-feed secret, used only if FEED_URLS is empty
+        run: |
+          python3 split_canvas_feed.py \
+            --output-dir docs \
+            --base-url "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}"
+          touch docs/.nojekyll
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A docs
+          if ! git diff --quiet --cached; then
+            git commit -m "Update class calendars"
+            git pull --rebase origin main
+            git push
+          fi
